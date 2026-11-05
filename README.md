@@ -1,36 +1,58 @@
-# API Bolaños
+# 🎬 API Bolaños
 
-Esta API fornece informações sobre os episódios de Chave e Chapolin
+Esta API fornece informações sobre os episódios de Chave e Chapolin.
+
+> 🚀 **Base URL em Produção:**  
+> `https://api-bolanos.vercel.app/`
 
 ## Sumário
 
-- [API Bolaños](#api-bolaños)
-  - [Sumário](#sumário)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
-  - [Uso](#uso)
+  - [Como Usar](#-como-usar)
+    - [Endpoints](#endpoints)
     - [Exemplo de requisição](#exemplo-de-requisição)
-  - [Contribuições](#contribuições)
-    - [Antes de enviar um Pull Request, por favor, certifique-se de:](#antes-de-enviar-um-pull-request-por-favor-certifique-se-de)
   - [Roadmap e Melhorias Futuras](#roadmap-e-melhorias-futuras)
-    - [Contribua](#contribua)
+  - [Contribua](#contribua)
   - [Disclaimer](#disclaimer)
   - [Licença](#licença)
 
 
 ## Tecnologias utilizadas
 
+* **Node.js** (ES Modules)
+* **Vercel Serverless Functions** (Edge Delivery & Cache)
+* **REST Architecture**
 
-## Uso
+## Como usar
+
+Todas as respostas são retornadas em formato `JSON` com suporte nativo a CORS e cache em CDN.
+
+### Endpoints
 
 Para acessar às informações, realize requisições para os endpoints abaixo:
 
-- Lista todos os episódios disponíveis
-- Lista o episódio específico
-- Busca episódio
+| Método | Rota | Descrição |
+| :--- | :--- | :--- |
+| `GET` | `/api/episodios/:slug` | Lista todos os episódios disponíveis da série (`chaves` ou `chapolin`) |
+| `GET` | `/api/episodios/:slug/search?q=:termo` | Busca episódio por título ou resumo |
 
 ### Exemplo de requisição
 
-## Contribuições
+Busca todos os episódios de Chaves
+GET [https://api-bolanos.vercel.app/api/episodios/chaves](https://api-bolanos.vercel.app/api/episodios/chaves)
+
+Busca episódios de Chapolin que estão relacionados ao termo "fantasma"
+GET [https://api-bolanos.vercel.app/api/episodios/chapolin/search?q=fantasmas](https://api-bolanos.vercel.app/api/episodios/chapolin/search?q=fantasmas)
+
+## Roadmap e Melhorias Futuras
+
+Estamos planejando para este projeto:
+
+- **Tratamento Padronizado de Erros**: fornecendo respostas mais amigáveis e consistentes na API.
+- **Rate limiting**: possibilitando manter o sistema estável e evitando abusos.
+- **Autenticação e autorização**: garantindo que o acesso seja somente à usuários cadastrados.
+
+## Contribua
 
 Contribuições são sempre bem-vindas! Se você gostaria de contribuir com este projeto, por favor, siga os seguintes passos:
 
@@ -50,21 +72,9 @@ Contribuições são sempre bem-vindas! Se você gostaria de contribuir com este
 
 Agradecemos antecipadamente pela sua contribuição, e esperamos melhorar este projeto com a sua ajuda!
 
-## Roadmap e Melhorias Futuras
-
-Estamos planejando para este projeto:
-
-- **Tratamento Padronizado de Erros**: fornecendo respostas mais amigáveis e consistentes na API.
-- **Rate limiting**: possibilitando manter o sistema estável e evitando abusos.
-- **Autenticação e autorização**: garantindo que o acesso seja somente à usuários cadastrados.
-
-### Contribua
-
-Se você tem ideias ou sugestões para novas funcionalidades ou melhorias, por favor, crie uma issue no repositório do GitHub ou contribua diretamente com um pull request. Todas as contribuições são bem-vindas!
-
 ## Disclaimer
 
-Este projeto é puramente para fins didáticos e naõ deve ser usado comercialmente.
+Este projeto é puramente para fins didáticos e não deve ser usado comercialmente.
 
 "Chaves", "Chapolin" e todos os personagens relacionados são marcas registradas pertencentes aos seus respectivos proprietários. 
 

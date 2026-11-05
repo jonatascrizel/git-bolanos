@@ -48,9 +48,10 @@ GET [https://api-bolanos.vercel.app/api/episodios/chapolin/search?q=fantasmas](h
 
 Estamos planejando para este projeto:
 
-- **Tratamento Padronizado de Erros**: fornecendo respostas mais amigáveis e consistentes na API.
-- **Rate limiting**: possibilitando manter o sistema estável e evitando abusos.
-- **Autenticação e autorização**: garantindo que o acesso seja somente à usuários cadastrados.
+[] **Paginação de Resultados**: Suporte a parâmetros `?page=` e `?limit=`.
+[] **Documentação OpenAPI / Swagger**: Interface gráfica interativa para testes rápidos via navegador.
+[] **Rate limiting**: proteção de borda contra abusos de requisições contínuas.
+[] **Autenticação e autorização**: garantindo que o acesso seja somente à usuários cadastrados.
 
 ## Contribua
 

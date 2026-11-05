@@ -1,0 +1,2957 @@
+{
+  "serie": "Chapolin Colorado",
+  "episodios": [
+    {
+      "id": 1,
+      "titulo_pt": "Chespirito: Um boneco muito vivo",
+      "titulo_es": "Chespirito: Engaño",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Rubén tenta se passar por ventríloquo para enganar um empresário teatral."
+    },
+    {
+      "id": 2,
+      "titulo_pt": "Chapolin Colorado: A casa mal assombrada",
+      "titulo_es": "El Chapulín Colorado: Complot para asustar al Chapulín",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin Colorado é chamado em uma casa porque a mocinha está com medo de ficar sozinha, pois acha que o lugar é mal assombrado. Nosso herói tenta ajudá-la, mas acaba se assustando mais do que a garota."
+    },
+    {
+      "id": 3,
+      "titulo_pt": "Chapolin Colorado: O quarto errado",
+      "titulo_es": "El Chapulín Colorado: Número equivocado",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Chapolin bate de maneira selvagem em Ramón Valdés, pensando que ele é um bandido."
+    },
+    {
+      "id": 4,
+      "titulo_pt": "Chespirito: O prêmio da loteria",
+      "titulo_es": "Chespirito: El Huerfanito de la Lotería",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chespirito é mordomo e fica encarregado de achar um bilhete de loteria para seu patrão, que sonhou com os números sorteados. Porém, todos acabam pensando que ele sequestrou um bebê."
+    },
+    {
+      "id": 5,
+      "titulo_pt": "Chapolin Colorado: Os duendezinhos",
+      "titulo_es": "El Chapulín Colorado:Duendecillo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um menino diz que vê duendes por toda parte e seu pai acha que ele está ficando louco. Depois, Chapolin Colorado é chamado para ajudar, mas acaba vendo os tais duendes também."
+    },
+    {
+      "id": 6,
+      "titulo_pt": "Dr. Chapatin: ?",
+      "titulo_es": "Dr. Chapatín: ?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 7,
+      "titulo_pt": "Chapolin Colorado: R.S.E.",
+      "titulo_es": "El Chapulín Colorado: R.S.E.",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Chapolin Colorado enfrenta um poderoso rato que utiliza a última novidade em armas secretas."
+    },
+    {
+      "id": 8,
+      "titulo_pt": "Chapolin Colorado: Marretada no totem",
+      "titulo_es": "El Chapulín Colorado:Martillazo en el totem",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin bate em Ramón Valdés, que está no totem."
+    },
+    {
+      "id": 9,
+      "titulo_pt": "Dr. Chapatin: O exame",
+      "titulo_es": "Dr. Chapatín: En exámenes",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dr. Chapatin examina quatro soldados, para ver se eles estão aptos a \"subir\"."
+    },
+    {
+      "id": 10,
+      "titulo_pt": "Chapolin Colorado: O descobrimento da tribo perdida",
+      "titulo_es": "El Chapulín Colorado: La tribu",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dois arqueólogos, pai (Ramón) e filha (María Antonieta), descobrem a Tribo dos Gordicholas, que estava perdida há muitos anos. O chefe da tribo (Édgar) prende ambos e diz que se não puder se casar com a mocinha, o pai dela será atirado no poço sagrado. Chapolin é chamado para ajudar, mas para isso, ele terá de lutar com o um dos guerreiros da tribo: um homem de quase 2 metros de altura (Ruben)."
+    },
+    {
+      "id": 11,
+      "titulo_pt": "Chapolin Colorado:Bloqueando a entrada",
+      "titulo_es": "El Chapulín Colorado:Bloqueando la entrada",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin tenta bloquear a entrada, para evitar o ingresso de um perigoso bandido."
+    },
+    {
+      "id": 12,
+      "titulo_pt": "Chespirito: Ator de araque",
+      "titulo_es": "Chespirito: El Actor Debutante",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O diretor de um filme comenta com uma atriz famosa que Chespirito, um figurante desajeitado, recebeu uma carta dizendo que ele herdou uma fortuna de seu tio. Para convencer o figurante a investir todo o seu capital no próximo filme que vão gravar, o diretor resolve lhe oferecer o papel de protagonista."
+    },
+    {
+      "id": 13,
+      "titulo_pt": "Chapolin Colorado: A prometida",
+      "titulo_es": "El Chapulín Colorado: La Chicharra Paralizadora",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma jovem moça (María Antonieta) está muito preocupada, pois seu pai (Ramón) quer lhe obrigar a se casar com um sujeito (Carlos) que ela não gosta, só porque este é super-arqui-multi-milionário. Desesperada, a mocinha resolve chamar o Chapolin, que usa a sua arma favorita: a Corneta Paralisadora."
+    },
+    {
+      "id": 14,
+      "titulo_pt": "Chapolin Colorado: A mão do bandido",
+      "titulo_es": "El Chapulín Colorado: La mano del delincuente",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin captura um bandido, mas este afirma que quem roubou foi a sua mão."
+    },
+    {
+      "id": 15,
+      "titulo_pt": "Dr. Chapatin: Por uma fatia de melancia",
+      "titulo_es": "Dr. Chapatín: Venta de Fruta",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Dr. Chapatin vai a uma quitanda, mas arranja uma baita encrenca com o vendedor, porque quer comprar fatias de melancia, ao invés de comprar uma inteira."
+    },
+    {
+      "id": 16,
+      "titulo_pt": "Chapolin Colorado: A explosão",
+      "titulo_es": "El Chapulín Colorado:Explosión de gas",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Carlos é um engenheiro que avisa os moradores de uma vila que esta ficou enfraquecida por causa de uma explosão de gás, e que eles terão de abandonar o local o mais rápido possível. O problema é que Ramón não quer ir embora, o que deixa sua filha (María Antonieta) desesperada."
+    },
+    {
+      "id": 17,
+      "titulo_pt": "Chespirito: Parabéns, sargento!",
+      "titulo_es": "Chespirito: Cumpleaños",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma missão quase impossível para os soldados atrapalhados: levar a caixa de dinamite até o sargento."
+    },
+    {
+      "id": 18,
+      "titulo_pt": "Dr. Chapatin: O julgamento",
+      "titulo_es": "Dr. Chapatín: El Perro Atropellado",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma mulher acusa o Dr. Chapatin de ter atropelado o seu cãozinho."
+    },
+    {
+      "id": 19,
+      "titulo_pt": "Chapolin Colorado: O bandido Mata Fácil",
+      "titulo_es": "El Chapulín Colorado: El Matafácil",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "No Velho Oeste, María Antonieta tem medo que seu pai enfrente o terrível Matafácil, e por isso resolve chamar o Chapolin Colorado."
+    },
+    {
+      "id": 20,
+      "titulo_pt": "Chapolin Colorado: A fronteira",
+      "titulo_es": "El Chapulín Colorado: La Frontera",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um caminhão atola e seus três passageiros ficam presos em uma região proibida; se eles não passarem a fronteira até às 6 da tarde, serão fuzilados."
+    },
+    {
+      "id": 21,
+      "titulo_pt": "Dr. Chapatin: Um passageiro encrenqueiro",
+      "titulo_es": "Dr. Chapatín: Viaje en un Avión",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dr. Chapatin está viajando de avião e arranja muitas confusões com os outros passageiros."
+    },
+    {
+      "id": 22,
+      "titulo_pt": "Chapolin Colorado: Os fantasmas",
+      "titulo_es": "El Chapulín Colorado: La Casa de los Fantasmas",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "María Antonieta compra uma casa pensando ter fantasmas, mas seu pai diz que ela foi enganada. Ela, por sua vez, resolve chamar o Chapolin e coisas estranhas começam a acontecer."
+    },
+    {
+      "id": 23,
+      "titulo_pt": "Os Ladrões: A fuga",
+      "titulo_es": "Los Caquitos: Escapatoria",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chompiras tenta ajudar seu amigo Peterete a escapar da prisão."
+    },
+    {
+      "id": 24,
+      "titulo_pt": "Dr. Chapatin: Visita ao museu",
+      "titulo_es": "Dr. Chapatín: Intento de fotografía",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Dr. Chapatin quer tirar fotos dentro de um museu, mas isso está proibido."
+    },
+    {
+      "id": 25,
+      "titulo_pt": "Chapolin Colorado: O roubo das maçãs",
+      "titulo_es": "El Chapulín Colorado: El robo de fruta",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um mendigo está roubando várias coisas de uma cozinha, que vive com a janela aberta. O casal, dono da casa, acaba brigando porque um pensa que o outro está lhe tirando sarro. Mas a esposa decide chamar o Chapolin e ele consegue por um fim nisso tudo."
+    },
+    {
+      "id": 26,
+      "titulo_pt": "Chapolin Colorado: Conde Terra Nova",
+      "titulo_es": "El Chapulín Colorado:Estafador",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "María Antonieta está namorando um conde estrangeiro, ou talvez não. Seu pai chama o Chapolin para ajudá-lo, ou talvez não. Tudo pode não passar de um alarme falso, ou talvez não."
+    },
+    {
+      "id": 27,
+      "titulo_pt": "Dr. Chapatin: Doutor Chapatin",
+      "titulo_es": "Dr. Chapatín: Rateros",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "A enfermeira escuta no rádio que dois assaltantes escaparam da polícia, e que um deles está gravemente ferido. Em seguida, chegam dois tipos no consultório; um deles, gravemente ferido."
+    },
+    {
+      "id": 28,
+      "titulo_pt": "Chapolin Colorado: O vampiro",
+      "titulo_es": "El Chapulín Colorado: El Vampiro",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "María Antonieta está com medo do homem-vampiro, e jura que ele tentou atacá-la durante a noite. Seu pai não acredita na história e ela resolve chamar o Chapolin."
+    },
+    {
+      "id": 29,
+      "titulo_pt": "?",
+      "titulo_es": "?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 30,
+      "titulo_pt": "Chapolin Colorado:Arruaceiros",
+      "titulo_es": "El Chapulín Colorado: Vagos Paralizados",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "María Antonieta está cansada de ser assediada por um bando de vadios, que vivem na porta de sua casa. Chapolin é chamado para dar um jeito na situação e resolve usar sua Pistola Paralisadora."
+    },
+    {
+      "id": 31,
+      "titulo_pt": "Dr. Chapatin: Jantar executivo 2",
+      "titulo_es": "Dr. Chapatín: Chantaje",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón tem que ir a uma reunião de negócios, mas sua esposa se faz de doente para que ele fique em casa."
+    },
+    {
+      "id": 32,
+      "titulo_pt": "Chapolin Colorado: Os prisioneiros",
+      "titulo_es": "El Chapulín Colorado: Agua Helada",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma louca, que acredita ser Maria Bonita, prende Ramón e María Antonieta. Chapolin Colorado terá de salvá-los."
+    },
+    {
+      "id": 33,
+      "titulo_pt": "Dr. Chapatin: Encontro às escuras",
+      "titulo_es": "Dr. Chapatín: Corazón apasionado",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dona Neves marca encontro com um pretendente no parque e encontra o Dr. Chapatin, que como sempre, faz suas piadas debochadas."
+    },
+    {
+      "id": 34,
+      "titulo_pt": "Chespirito: Garçom desastrado",
+      "titulo_es": "Chespirito: Mesero demoledor",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "María Antonieta está fazendo aniversário e chama um garçom. Por azar, a agência manda Chespirito, o mesmo garçom que quase destruiu a casa dela no ano anterior."
+    },
+    {
+      "id": 35,
+      "titulo_pt": "Chapolin Colorado: Confusão no celeiro",
+      "titulo_es": "El Chapulín Colorado:Espantapájaros",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O terrível bandido Peterete escapou da cadeia e quer vingança. Chapolin é chamado para ajudar, mas acaba confundindo um boneco com o bandido."
+    },
+    {
+      "id": 36,
+      "titulo_pt": "Chapolin Colorado: Operação de salvamento",
+      "titulo_es": "El Chapulín Colorado: El campamento",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Em um pântano, María Antonieta diz que foi picada por uma serpente venenosa. Seu pai e seu marido ficam terrivelmente assustados e, juntos do Chapolin, fazem de tudo para ajudá-la."
+    },
+    {
+      "id": 37,
+      "titulo_pt": "Dr. Chapatin: Problemas de peso",
+      "titulo_es": "Dr. Chapatín: El doctor",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dois pacientes vão ao consultório do Dr. Chapatin. Um quer emagrecer e o outro, engordar."
+    },
+    {
+      "id": 38,
+      "titulo_pt": "Chapolin Colorado: A lenda da Chorona",
+      "titulo_es": "El Chapulín Colorado: El cementerio",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón está num cemitério e se assusta com a \"Chorona\". Ele chama o Chapolin e os dois começam a investigar, apesar do medo."
+    },
+    {
+      "id": 39,
+      "titulo_pt": "Dr. Chapatin: Um aluno e tanto",
+      "titulo_es": "Dr. Chapatín: El terrible Doctor Chapatín",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Dr. Chapatin vai atender um paciente(Ramón), e sem querer, acaba tomando aulas de golfe."
+    },
+    {
+      "id": 40,
+      "titulo_pt": "Chapolin Colorado: Presente de grego",
+      "titulo_es": "El Chapulín Colorado: Regalo explosivo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Rubén é um vilão que quer obrigar Florinda a se casar com ele. Como a mocinha se recusa, ele resolve colocar veneno em um dos bolos que o pai dela está vendendo."
+    },
+    {
+      "id": 41,
+      "titulo_pt": "Chapolin Colorado: A lata de suco",
+      "titulo_es": "El Chapulín Colorado: La lata de jugo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin pergunta a María Antonieta como se abre uma lata de suco."
+    },
+    {
+      "id": 42,
+      "titulo_pt": "Chespirito: Trapaças no restaurante",
+      "titulo_es": "Chespirito: Fraude en restaurante",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "A sopa de Ramón tem uma mosca e, por isso, a garçonete (María Antonieta) não cobra a conta dele. Chespirito, então, tenta achar uma mosca para jogar em seu prato e, assim, não ter que pagar a sua conta também."
+    },
+    {
+      "id": 43,
+      "titulo_pt": "Chapolin Colorado: O índio Pele Vermelha",
+      "titulo_es": "El Chapulín Colorado:Fantasma Piel Roja",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón e María Antonieta vão passar o dia numa cabana e encontram o fantasma do Indio riacho molhado (Rubén). Assustados, eles chamam o Chapolin Colorado."
+    },
+    {
+      "id": 44,
+      "titulo_pt": "?",
+      "titulo_es": "?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 45,
+      "titulo_pt": "Dr. Chapatin: ?",
+      "titulo_es": "Dr. Chapatín: ?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 46,
+      "titulo_pt": "Chapolin Colorado: A caricatura",
+      "titulo_es": "El Chapulín Colorado: La Caricatura",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma desenhista (María Antonieta) tem que fazer o retrato do Sr. Valdés. Porém, a sua oficina ficou trancada por dentro. Ela decide chamar o Chapolin Colorado, que usa suas famosas pastilhas encolhedoras para entrar no local e terminar o retrato.Nota: Resumo baseado na versão de 1976."
+    },
+    {
+      "id": 47,
+      "titulo_pt": "Uma investigação perigosa",
+      "titulo_es": "La falsa muerte del Malhechor",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Quase Nada se finge de morto, para poder cometer crimes sem que a polícia desconfie. Agora, por incrível que pareça, o único que pode acabar com seus planos é o Chapolin Colorado."
+    },
+    {
+      "id": 48,
+      "titulo_pt": "Aventuras em Vênus",
+      "titulo_es": "Aventuras en Venus",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin faz uma viagem diferente e sensacional; ele vai parar no planeta Vênus! agora, terá de ajudar dois astronautas que ficaram presos por lá."
+    },
+    {
+      "id": 49,
+      "titulo_pt": "?",
+      "titulo_es": "?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 50,
+      "titulo_pt": "O cão raivoso",
+      "titulo_es": "Rabia",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin ajuda um peão (Ramón) a levar os sacos até a casa de seu patrão (Carlos), porém os dois vivem sendo atrapalhados por um turista gringo (Édgar) que está passeando por lá. Ao mesmo tempo, uma enfermeira (María Antonieta) está procurando um homem que foi mordido por um cachorro raivoso. Quem será o tal sujeito?"
+    },
+    {
+      "id": 51,
+      "titulo_pt": "O debilitador potencial",
+      "titulo_es": "El Hombre Lobo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón inventa um líquido maravilhoso: o debilitador potencial. Este líquido é capaz de amolecer qualquer coisa; ou seja, até um tijolo pode ficar macio. Mas tem gente muito gananciosa atrás desse invento, e o Chapolin é chamado para ajudar."
+    },
+    {
+      "id": 52,
+      "titulo_pt": "Dr. Chapatin: Fila e fichas no hospital",
+      "titulo_es": "Dr. Chapatín: Búsqueda del enfermo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dr. Chapatin chega ao hospital com um Ramón totalmente \"estourado\". O homem foi atropelado e precisa de cuidados médicos, mas o doutor acaba arranjando muitas confusões na fila, por causa das fichas numéricas que lhe entregam."
+    },
+    {
+      "id": 53,
+      "titulo_pt": "Chapolin Colorado: Duas vezes Chapolin",
+      "titulo_es": "El Chapulin Colorado: Las Bromas del Tío Ramón",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón é um sujeito que adora pregar peças nos outros, mas sua sobrinha Florinda não quer que ele faça isso com Carlos, seu marido, pois este sofre do coração e com um susto muito forte, poderia até morrer."
+    },
+    {
+      "id": 54,
+      "titulo_pt": "Para fugir da prisão",
+      "titulo_es": "Prisión",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Tripa Seca quer fugir da prisão, mas o capataz não quer deixar de jeito nenhum. Por isso, ele invoca o Chapolin Colorado."
+    },
+    {
+      "id": 55,
+      "titulo_pt": "Dr. Chapatin: Médicos birutas",
+      "titulo_es": "Dr. Chapatín: Médicos en Quirófano",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón é médico e está tentando realizar uma cirurgia, mas o Dr. Chapatin não para de atrapalhar, com seus saquinhos de batata frita."
+    },
+    {
+      "id": 56,
+      "titulo_pt": "Chapolin Colorado: O minidisco voador",
+      "titulo_es": "El Chapulín Colorado:Marcianos",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Num laboratório, os cientistas descobrem que a Terra está sendo invadida por marcianos super arqui ultra microscópicos. Assustados, eles decidem chamar o Chapolin Colorado."
+    },
+    {
+      "id": 57,
+      "titulo_pt": "Conto de bruxas",
+      "titulo_es": "Cuento de Brujas",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chapolin Colorado tem que enfrentar uma bruxa que se dedica a transformar as pessoas em sapos, árvores, etc."
+    },
+    {
+      "id": 58,
+      "titulo_pt": "Dando um fim no Chapolin",
+      "titulo_es": "Cómo Matar un Chapulín sin Mortificar a la Sociedad Protectora de Animales",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "A filha de Ramón está em perigo e os bandidos só vão deixá-la em paz se seu pai matar o Chapolin Colorado. Sem saída, Ramón tenta colocar o plano dos bandidos em prática, mas o Chapolin acaba sempre escapando."
+    },
+    {
+      "id": 59,
+      "titulo_pt": "Uma múmia bastante egípcia",
+      "titulo_es": "Una Momia Bastante Egipcia",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Três arqueólogos (Ramón, Florinda e Carlos) vão às pirâmides do Egito procurar tesouros maravilhosos, mas se deparam com um árabe valentão (Rubén) e uma múmia viva."
+    },
+    {
+      "id": 60,
+      "titulo_pt": "Em guerras médicas, a baioneta se chama bisturi",
+      "titulo_es": "En las Guerras Médicas, la Bayoneta se Llamaba Bisturí",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "No meio de uma guerra, o capitão (Rubén Aguirre) toma o cantil de água do sargento (Horacio Gómez), o único restante em todo o campo de batalha, e proíbe a todos de tomar a água contida nela, pois eles precisarão usá-la mais tarde. Porém, o sargento enlouquece e todos ficam preocupados.Nota: Resumo baseado na versão de 1976."
+    },
+    {
+      "id": 61,
+      "titulo_pt": "Dr. Chapatin: A autópsia",
+      "titulo_es": "Dr. Chapatín: La Autopsia",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Dr. Chapatin vai à casa de Carlos, que precisa de um cadáver, pois está estudando medicina e deseja praticar uma autópsia."
+    },
+    {
+      "id": 62,
+      "titulo_pt": "Chapolin Colorado: A casa de chá do luar de 8 de agosto de 1984",
+      "titulo_es": "El Chapulín Colorado: La Casa del Té de Hierbabuena de la Luna del 8 de Agosto de 1974",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma gueixa (Florinda) está sendo forçada pelo seu pai (Ramón) a se casar com o famoso carateca Simpato Yamasaki (Édgar). Por isso, Chapolin Colorado é chamado para ajudar. Mas o único jeito de impedir o casamento é lutando com o campeão de caratê."
+    },
+    {
+      "id": 63,
+      "titulo_pt": "Dr. Chapatin: Infelizmente perdemos o avião, graças a Deus!",
+      "titulo_es": "Dr. Chapatín: La Boda de la Enfermera",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O Dr. Chapatin é convidado para o casamento de sua enfermeira (Florinda), mas ele atrapalha e não deixa o juiz (Ramón) terminar a cerimônia. O problema é que o casal (Florinda e Carlos) pode perder o avião, se ficar muito tarde."
+    },
+    {
+      "id": 64,
+      "titulo_pt": "Chapolin Colorado: O pistoleiro da Marreta Biônica",
+      "titulo_es": "El Chapulín Colorado:Pistolero Veloz",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um casal está assustado com a volta do terrível Pistoleiro Veloz, que diz ter o gatilho mais rápido do Velho Oeste. Chapolin é chamado para ajudar, e agora vai mostrar que ele tem a Marreta mais rápida do Velho Oeste."
+    },
+    {
+      "id": 65,
+      "titulo_pt": "Um hotel nada agradável",
+      "titulo_es": "La cuenta del hotel",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O gerente do hotel está cobrando o dobro do combinado pela conta do casal, que não tem dinheiro. Eles ficam proibidos de sair do hotel, a menos que paguem a conta e, por isso, decidem chamar o Chapolin Colorado."
+    },
+    {
+      "id": 66,
+      "titulo_pt": "O anel de brilhante",
+      "titulo_es": "El robo del anillo",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um anel de brilhante desaparece e Ramón culpa a sua empregada. Ela pede a ajuda do Chapolin, que resolve investigar."
+    },
+    {
+      "id": 67,
+      "titulo_pt": "O espião invisível",
+      "titulo_es": "El Hombre Invisible es tan Antipático que Nadie lo Puede Ver",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón é um cientista que cria a fórmula da invisibilidade. O problema é que um espião e um jornalista estão muito interessados nesse invento."
+    },
+    {
+      "id": 68,
+      "titulo_pt": "Um miado ao cair da noite",
+      "titulo_es": "De Noche, Todos los Gatos Hacen \"Miau\"",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Florinda não consegue dormir há quatro noites por causa de um gato que não para de miar. Sem saber o que fazer, ela chama o Chapolin Colorado, e acaba tendo uma ajuda extra: a do guarda noturno (Ramón), que também não consegue mais dormir por causa do gato."
+    },
+    {
+      "id": 69,
+      "titulo_pt": "Quando os brinquedos voam",
+      "titulo_es": "Cuando los Juguetes Vuelan",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Uma menina mentirosa joga os seus brinquedos na rua e diz que um bandido os roubou, só para poder ganhar novos brinquedos. Chapolin Colorado é chamado para tentar resolver o caso."
+    },
+    {
+      "id": 70,
+      "titulo_pt": "Dr. Chapatin: O gato e o chimpanzé",
+      "titulo_es": "Dr. Chapatín: Médicos: Cita con el futuro",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dr. Chapatin atende um paciente que está todo estourado porque foi descer uma escada, pisou no rabo de um gato, o gato miou, ele se assustou, tropeçou e rolou a escada."
+    },
+    {
+      "id": 71,
+      "titulo_pt": "Chapolin Colorado: Um defunto bastante morto",
+      "titulo_es": "El Chapulín Colorado: Un Difunto Bastante Muerto",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Um vendedor ambulante entra na casa de Florinda e descobre um cadáver dentro de um baú. Assustado, ele chama o Chapolin Colorado."
+    },
+    {
+      "id": 72,
+      "titulo_pt": "Proibido mexer com bombas em horas de serviço",
+      "titulo_es": "Prohibido Tirar Bombas en Horas de Oficina",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Quase Nada intimida um advogado, colocando uma bomba em seu escritório. Chapolin, o advogado e sua secretária tentam desativar a bomba, que se encontra dentro de um cofre."
+    },
+    {
+      "id": 73,
+      "titulo_pt": "Dr. Chapatin: O paciente teimoso",
+      "titulo_es": "Dr. Chapatín: El Futuro Difunto",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dr. Chapatin diz que seu paciente já morreu, porém, o paciente ainda está vivo e diz que não vai morrer de jeito nenhum."
+    },
+    {
+      "id": 74,
+      "titulo_pt": "Chapolin Colorado: Injeção, não!",
+      "titulo_es": "El Chapulín Colorado: El Lugar donde se Ponen Más Inyecciones se Llama Hospital",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón é um paciente rabugento que está dominado pela Roncopilepsia e se nega a tomar uma injeção. O problema é que, se ele não tomá-la, pode até morrer. Chapolin é chamado para ajudar e... vai sobrar injeção para todo mundo!"
+    },
+    {
+      "id": 75,
+      "titulo_pt": "O bandido",
+      "titulo_es": "El Bueno, el Malo y el Chapulín",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "O terrível Racha-Cuca está de volta ao velho Oeste e para tentar detê-lo, o banqueiro, o xerife e o dono do bar chamam o Chapolin Colorado, que decide pregar alguns cartazes do bandido por todo o povoado, além é claro de pregar cartazes do concurso \"Vamos à Disneylândia com o Polegar Vermelho\"."
+    },
+    {
+      "id": 76,
+      "titulo_pt": "?",
+      "titulo_es": "?",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "?"
+    },
+    {
+      "id": 77,
+      "titulo_pt": "Chespirito: E livrai-nos também dos distraídos",
+      "titulo_es": "Chespirito: ...Y Líbranos También de los Distraidos",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Chespirito é um sujeito extremamente distraído e o único que tem telefone em todo o prédio. Por isso, as pessoas vivem entrando e saindo de lá."
+    },
+    {
+      "id": 78,
+      "titulo_pt": "Chapolin Colorado: Livrai-nos dos metidos, Senhor",
+      "titulo_es": "El Chapulín Colorado: De los Metiches Líbranos Señor",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dimitrio Panzov quer sequestrar a pobre camponesa para se casar com ela. Assustada, ela chama o Chapolin Colorado, mas é atendida por outro herói, o incrível Super Sam!"
+    },
+    {
+      "id": 79,
+      "titulo_pt": "Dr. Chapatin: A pérola",
+      "titulo_es": "Dr. Chapatín: La Perla",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Monchito é um velhinho que encontra uma pérola no meio de sua comida, em um restaurante. A garçonete garante que a pérola é dela e agora a confusão está armada."
+    },
+    {
+      "id": 80,
+      "titulo_pt": "Chapolin Colorado: O robô desparafusado",
+      "titulo_es": "El Chapulín Colorado: El Hombre que Costó Seis Pesos",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Ramón constrói um robô idêntico a um ser humano, que está descontrolado por ter um parafuso a menos. Chapolin é chamado para ajudar a detê-lo, mas não consegue descobrir quem é o robô."
+    },
+    {
+      "id": 81,
+      "titulo_pt": "Dr. Chapatin: Um brinde aos recém-casados",
+      "titulo_es": "Dr. Chapatín: Brindis a los Recién Casados",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Em um casamento, o Dr. Chapatin faz um discurso e apronta muitas confusões."
+    },
+    {
+      "id": 82,
+      "titulo_pt": "Chapolin Colorado: Os microfones ocultos",
+      "titulo_es": "El Chapulín Colorado: Los Micrófonos Están en la Onda Fresa",
+      "ano": 1973,
+      "temporada": 1,
+      "resumo": "Dois detetives estão tentando escutar os planos de um casal de bandidos, usando microfones ocultos. Mas os bandidos resolvem chamar o Chapolin para ajudá-los a procurar os tais microfones."
+    },
+    {
+      "id": 83,
+      "titulo_pt": "A invasão dos marcianos",
+      "titulo_es": "No es lo Mismo “Los Platillos Voladores”, que “Los Bolillos Plateadores”",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um marinheiro vê um disco voador, mas ninguém acredita nele. Assustado, resolve chamar o Chapolin, que descobre a existência dos marcianos."
+    },
+    {
+      "id": 84,
+      "titulo_pt": "O caso dos homens que eram idênticos",
+      "titulo_es": "El Caso de Dos Hombres que eran tan Parecidos que eran Idénticos, sobre todo Uno de Ellos",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Ramón está com muito medo, pois há um bandido idêntico a ele à solta. A polícia recebeu ordens de atirar para matar, caso visse o bandido e, sendo assim, o inocente corre perigo."
+    },
+    {
+      "id": 85,
+      "titulo_pt": "A bela adormecida era um senhor muito feio - parte 1",
+      "titulo_es": "La Bella Durmiente era un Señor Muy Feo - parte 1",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Chapolin Colorado enfrenta um homem das cavernas que estava há mais de vinte mil anos debaixo da neve."
+    },
+    {
+      "id": 86,
+      "titulo_pt": "A bela adormecida era um senhor muito feio - parte 2",
+      "titulo_es": "La Bella Durmiente era un Señor Muy Feo - parte 2",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O Prof. Popov descobre um homem das cavernas, chamado Chimpandolfo. Porém, este homem tem causado muitos problemas e o comissário local ameaça prendê-lo, caso não seja corretamente educado. Para ajudá-lo, o professor chama o Chapolin."
+    },
+    {
+      "id": 87,
+      "titulo_pt": "Os búfalos, os caçadores e outros animais",
+      "titulo_es": "Los Búfalos, los Cazadores y otros Animales",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Os índios estão desesperados, pois o famoso caçador Buffalo Bill foi contratado para matá-los."
+    },
+    {
+      "id": 88,
+      "titulo_pt": "Chapolin vemos, cérebro não sabemos",
+      "titulo_es": "Chapulín Vemos, Cerebros no Sabemos",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um cientista louco pretende realizar um transplante de cérebros. Todos os seus companheiros cientistas ficam contra e se recusam a ajudá-lo. Ameaçado e assustado, ele resolve chamar o Chapolin Colorado, e aproveita a oportunidade para mostrar seus \"magníficos\" inventos."
+    },
+    {
+      "id": 89,
+      "titulo_pt": "Nós e os fantasmas",
+      "titulo_es": "Más Vale 100 Fantasmas Volando que uno la Mano",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Chapolin Colorado assiste a um teatro e tem que enfrentar uma série de fantasmas."
+    },
+    {
+      "id": 90,
+      "titulo_pt": "O extrato de energia volátil",
+      "titulo_es": "En estos Tiempos todo Anda por las Nubes, hasta los Aviones",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Monchito aplica o extrato de energia volátil nas paredes e no teto de sua casa. No dia seguinte, tudo desaparece e só então ele descobre que o extrato serve para fazer os objetos voarem."
+    },
+    {
+      "id": 91,
+      "titulo_pt": "A revólver dado, não se olham as balas",
+      "titulo_es": "A Pistola Regalada no le Mires Agujero",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Quase Nada, um bandido do velho oeste, está de volta e ameaça todo o povoado. Ao mesmo tempo, um velhinho lhe oferece serviços para matar ratos, mas todos acham que ele é um assassino profissional."
+    },
+    {
+      "id": 92,
+      "titulo_pt": "Expedição arqueológica",
+      "titulo_es": "Lo Malo de los Fósiles es que son Muy \"Difósiles\" de Encontrar",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Os empregados do Prof. Imbecilo fogem, depois que encontram um fóssil humano. O professor e seu ajudante, desamparados, resolvem chamar o Chapolin Colorado para que os ajude."
+    },
+    {
+      "id": 93,
+      "titulo_pt": "Dr. Chapatin: Paquera à moda antiga",
+      "titulo_es": "Dr. Chapatín: El Pañuelo",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Uma velhinha trata de jogar seu lenço, para que o Dr. Chapatin pegue e devolva para ela, mas ele nem dá bola."
+    },
+    {
+      "id": 94,
+      "titulo_pt": "Chapolin Colorado: Em fotos pequeninas, o Chapolin aparece de corpo inteiro",
+      "titulo_es": "El Chapulín Colorado: En las Fotografías de Tamaño Miñón, el Chapulín Colorado Sale de Cuerpo Entero",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda se hospeda em um hotel e não quer que tirem fotos de sua cachorrinha famosa. Chapolin é chamado para ficar como guarda-costas da Condessa (nome da cachorra) e faz confusão, pensando que está como guarda-costas de Florinda."
+    },
+    {
+      "id": 95,
+      "titulo_pt": "Dr. Chapatin: ?",
+      "titulo_es": "Dr. Chapatín: ?",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "?"
+    },
+    {
+      "id": 96,
+      "titulo_pt": "Chapolin Colorado: Os mortos são obedientes",
+      "titulo_es": "El Chapulín Colorado: Los muertos son obedientes",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O Chapolin Colorado tem que localizar um defunto que desapareceu do depósito de cadáveres."
+    },
+    {
+      "id": 97,
+      "titulo_pt": "Ladrão que rouba ladrão está traindo o sindicato",
+      "titulo_es": "Ladrón que Roba a Ladrón es Traidor al Sindicato",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda entrega um selo valioso para o delegado, mas ele diz que só vai pagar o valor original: 4 centavos. Indignada, ela chama o Chapolin Colorado, que toma uma de suas famosas pastilhas encolhedoras para tentar recuperar o selo."
+    },
+    {
+      "id": 98,
+      "titulo_pt": "Mais vale uma mulher jovem, rica e bonita do que uma velha, pobre e feia",
+      "titulo_es": "Más Vale una Mujer Joven, Rica y Bonita que una Vieja, Pobre y Fea",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "A Menina (Florinda Meza) namora com o Prof. Baratinha (Carlos Villagrán) só por causa de seus inventos maravilhosos. Ela deseja se apoderar das fórmulas e projetos, mas o namorado diz que tudo está guardado na casa do Chapolin Colorado.Nota: Resumo baseado na versão de 1976."
+    },
+    {
+      "id": 99,
+      "titulo_pt": "O bandido do hospital",
+      "titulo_es": "El Bandido del Hospital",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Chapolin Colorado tem que salvar um homem que está sendo ameaçado de morte por um delinquente que se disfarça de qualquer coisa.Nota: Resumo baseado na versão de 1976."
+    },
+    {
+      "id": 100,
+      "titulo_pt": "Dom Chapolin de la Mancha",
+      "titulo_es": "Don Chapulín de la Mancha",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um velho que acredita ser o Chapolin Colorado precisa de ajuda e, por isso, seus colegas de asilo resolvem chamar um médico. Depois, o verdadeiro Chapolin aparece e resolve se passar por consciência do velhinho, para ajudá-lo a perceber que todos têm sua importância na vida, e que ele não precisa ser o Chapolin Colorado para ser uma pessoa boa."
+    },
+    {
+      "id": 101,
+      "titulo_pt": "A casa dada não se contam os fantasmas",
+      "titulo_es": "En la Casa del Fantasma, hasta los Muertos se Asustan",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Carlos e Florinda terão de passar a noite em uma mansão sombria, para poderem ficar com o imóvel. Coisas estranhas começam a acontecer e Florinda chama o Chapolin, que se assusta mais do que qualquer outro."
+    },
+    {
+      "id": 102,
+      "titulo_pt": "Dr. Chapatin: Silêncio no estúdio!",
+      "titulo_es": "Dr. Chapatín: Interrumpiendo la Filmación",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O Dr. Chapatin atrapalha umas filmagens, falando sobre seus isqueiros, que vive perdendo."
+    },
+    {
+      "id": 103,
+      "titulo_pt": "Chapolin Colorado: Goteiras",
+      "titulo_es": "El Chapulín Colorado: No es lo Mismo “Chapulín con Agua”, que “Agua con los Chapulín”",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda já está cansada de viver em uma casa cheia de goteiras e reclama com o senhorio, um cafajeste que só quer lhe arrancar dinheiro."
+    },
+    {
+      "id": 104,
+      "titulo_pt": "Salvem o meu bebê!",
+      "titulo_es": "Los Valientes Mueren Pandeados",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um casal sai de casa, deixando o bebê sozinho. O problema é que Tripa Seca, um bandido foragido da polícia, invade o local. Ao descobrirem isso, eles decidem chamar o Chapolin Colorado.Nota: Resumo baseado na versão de 1976."
+    },
+    {
+      "id": 105,
+      "titulo_pt": "O ladrão do museu de cera",
+      "titulo_es": "Colección de Rateros",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Ramón rouba a bolsa de uma mulher que estava no telefone público. O policial tenta persegui-lo, mas não consegue. Por isso ele resolve chamar o Chapolin. Os dois ficam atrás do ladrão. Enquanto isso, Chapolin \"visita\" o museu próximo e se depara com estátuas de cera.Nota: Resumo baseado na versão de 1977."
+    },
+    {
+      "id": 106,
+      "titulo_pt": "Dr. Chapatin: Um abrigo para o Doutor Chapatin",
+      "titulo_es": "Dr. Chapatín: Buscando Alojamiento",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Dr. Chapatin pede abrigo a dois velhinhos e acaba discutindo com eles."
+    },
+    {
+      "id": 107,
+      "titulo_pt": "Chapolin Colorado: A corneta paralisadora",
+      "titulo_es": "El Chapulín Colorado: La Chicharra Paralizadora",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda está sendo obrigada pelo seu tio a se casar com um sujeito feio, só porque este ganhou na loteria. Assustada, ela chama o Chapolin, que faz uso de uma de suas armas favoritas, a Corneta Paralisadora."
+    },
+    {
+      "id": 108,
+      "titulo_pt": "Dr. Chapatin: O relógio perdido",
+      "titulo_es": "Dr. Chapatín: El Reloj Perdido",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Em um restaurante, o Dr. Chapatin acusa o sujeito ao seu lado de ter-lhe roubado o relógio que estava usando."
+    },
+    {
+      "id": 109,
+      "titulo_pt": "Chapolin Colorado: Ratos vemos, intenções não sabemos",
+      "titulo_es": "El Chapulín Colorado: Ratas Vemos, Intenciones no Sabemos",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Chapolin é chamado para ajudar a encontrar um relógio, que caiu no ralo de uma pia."
+    },
+    {
+      "id": 110,
+      "titulo_pt": "O retorno da corneta paralisadora",
+      "titulo_es": "El Retorno de la Chicharra Paralizadora",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda está sendo intimidada por um homem, que deseja se casar com ela. Assustada, ela chama o Chapolin, que resolve usar sua Corneta Paralisadora. Porém, o tio da garota rouba a corneta e fica brincando com ela."
+    },
+    {
+      "id": 111,
+      "titulo_pt": "Uma conferência sobre o Chapolin",
+      "titulo_es": "Conferencia sobre un Chapulín",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O Dr. Chapatin se lembra dos melhores momentos do Chapolin Colorado."
+    },
+    {
+      "id": 112,
+      "titulo_pt": "Por favor, é aqui que vive o morto?",
+      "titulo_es": "Perdón, es aquí donde Vive el Muerto?",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um cientista louco cria um monstro, e ele precisa do sangue de uma jovem. Esta jovem chama o Chapolin para ajudá-la, e todos vão passar por momentos aterrorizantes no laboratório do cientista."
+    },
+    {
+      "id": 113,
+      "titulo_pt": "O Cleptomaníaco",
+      "titulo_es": "Aristócratas Vemos, Rateros No Sabemos",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Chapolin Colorado se reduz de tamanho para perseguir um bandido muito hábil."
+    },
+    {
+      "id": 114,
+      "titulo_pt": "Presídio de segurança mínima",
+      "titulo_es": "Juan Sebastián Bach hizo Muchas Fugas, pero no se Sabe de qué Presidio",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O sargento está aterrorizado, pois todos os presos conseguem fugir e o prefeito está a ponto de fuzilá-lo por causa disso. Depois, o Chapolin tem a ideia de prender qualquer um que apareça, para fingir que o presídio está cheio, mas ele acaba prendendo o prefeito, deixando-o ainda mais irritado."
+    },
+    {
+      "id": 115,
+      "titulo_pt": "Festival de fantasias - parte 1",
+      "titulo_es": "El Disfraz, el Antifaz y algo Más - parte 1",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O Professor Girafales vai dar uma festa a fantasia em sua casa, mas nem desconfia que uns contrabandistas estão planejando agir durante a festa. Entretanto, um detetive vai à sua casa investigar e tentar descobrir quem são os bandidos. Mesmo assim, o dono da casa fica assustado e chama o Chapolin Colorado."
+    },
+    {
+      "id": 116,
+      "titulo_pt": "Festival de fantasias - parte 2",
+      "titulo_es": "El Disfraz, el Antifaz y algo Más - parte 2",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O detetive e o Chapolin continuam investigando a festa. Finalmente descobrem que o chefe dos contrabandistas é o bandido Peterete, e tentam capturá-lo."
+    },
+    {
+      "id": 117,
+      "titulo_pt": "Não confunda, a casa está caindo de velha, com a velha está caindo da casa",
+      "titulo_es": "No es lo Mismo \"La Casa se Cae de Vieja' que 'La Vieja se Cae de la Casa\"",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda e seu avô estão sendo ameaçados de despejo. Para piorar tudo, a casa onde moram está em um estado lastimável, a ponto de desabar."
+    },
+    {
+      "id": 118,
+      "titulo_pt": "Não se enrugue couro velho, que te quero para tambor",
+      "titulo_es": "No te Arrugues Cuero Viejo que te Quiero para Tambor",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda bate à porta de uma cabana para pedir abrigo, pois seu carro ficou sem gasolina. Mas ela está assustada, pois escutou no rádio que um bandido muito perigoso escapou da prisão. Por isso, ela resolve chamar o Chapolin. Chegando à cabana, ele descobre três homens, todos muito suspeitos. No fim, descobre-se que Florinda, na verdade, era o bandido disfarçado de mulher."
+    },
+    {
+      "id": 119,
+      "titulo_pt": "O anel mágico",
+      "titulo_es": "La Sortija de la Bruja",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Ramón decide despedir sua empregada, pois não tem mais dinheiro para mantê-la. Então, ela diz que não se importa e conta que é uma bruxa, e que tem um anel mágico, e que com ele, pode conseguir qualquer coisa que Ramón necessite."
+    },
+    {
+      "id": 120,
+      "titulo_pt": "Remédios das dores da angústia",
+      "titulo_es": "De Chapulín, Poeta y Loco, todos Tenemos un Poco",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um detetive, um mendigo e o Chapolin caem nas garras de três mulheres loucas. Agora, eles terão de achar um jeito para escapar."
+    },
+    {
+      "id": 121,
+      "titulo_pt": "O bebê jupiteriano",
+      "titulo_es": "Los Bebés ya no Vienen de París, Ahora Vienen de Júpiter",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um disco voador de brinquedo cai num hotel e Florinda o encontra. O mais surpreendente é que neste \"brinquedo\", há um habitante do planeta Júpiter. Agora, eles vão ter que tomar cuidado, pois o bebezinho poderá se transformar em um monstro gigante."
+    },
+    {
+      "id": 122,
+      "titulo_pt": "A maldição da bola de cristal",
+      "titulo_es": "No és lo Mismo Hacerse Bolas con Magía, que Hacerse Majes con la Bola",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Carlos dá uma bola de cristal para Florinda. Porém, não é uma bola de cristal comum; é a bola de cristal do Rajá de Kalambur, que vale mais de 500 mil pratas! O problema é que há uma lenda que diz que quem tiver a bola em seu poder, estará amaldiçoado. Assustada, Florinda chama o Chapolin."
+    },
+    {
+      "id": 123,
+      "titulo_pt": "Chespirito: Precisamos fechar",
+      "titulo_es": "Chespirito: El Mesero Majadero",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O bar precisa ser fechado, mas o casal não vai embora. Agora, o dono do bar e o garçom terão de pensar em alguma coisa para expulsá-los de lá."
+    },
+    {
+      "id": 124,
+      "titulo_pt": "Chapolin Colorado: Não me amole, mosquito!",
+      "titulo_es": "El Chapulín Colorado: No me Molestes Mosquito",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda chama o Chapolin Colorado para resolver dois problemas: primeiro, o dos ovos podres. E segundo, o do ladrão que anda roubando comida da cozinha."
+    },
+    {
+      "id": 125,
+      "titulo_pt": "Chespirito: A Guerra de Secessão",
+      "titulo_es": "Chespirito: La Guerra de Secesión de los Estados Unidos",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O soldado Chespirito é folgado e não foi à guerra como os outros. Mas o general descobre e manda fuzilá-lo. Para salvar a vida, ele decide disfarçar-se de negro e viver como escravo."
+    },
+    {
+      "id": 126,
+      "titulo_pt": "Chapolin Colorado: Mão negra",
+      "titulo_es": "El Chapulín Colorado: No se Vale Mano Negra",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda tem medo de ficar sozinha em casa e tudo piora quando ela vê um vulto e uma mão vestindo luva negra. Assustada, ela chama o Chapolin para investigar."
+    },
+    {
+      "id": 127,
+      "titulo_pt": "Chespirito: A tragédia",
+      "titulo_es": "Chespirito: La Tragedia",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda entra no bar de Chespirito, chorando e dizendo que um homem está lhe seguindo. Depois, um tipo muito estranho entra no bar e Chespirito pensa que se trata do bandido."
+    },
+    {
+      "id": 128,
+      "titulo_pt": "Chapolin Colorado: O verniz invisibilizador",
+      "titulo_es": "El Chapulín Colorado: Por acaso no viran lo hombre invisíble por ai?",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Sem querer, Ramón cria a fórmula da invisibilidade. Um sujeito que estava encarregado de pintar a casa descobre e decide roubar o verniz. Chapolin é chamado para ajudar, mas acaba atrapalhando ainda mais."
+    },
+    {
+      "id": 129,
+      "titulo_pt": "O vampiro",
+      "titulo_es": "El Vampiro",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Florinda está com medo do homem-vampiro, e jura que ele tentou atacá-la durante a noite. Seu pai não acredita na história e ela resolve chamar o Chapolin.Nota: Resumo baseado na versão de 1972."
+    },
+    {
+      "id": 130,
+      "titulo_pt": "Chespirito: O soldado atrapalhado",
+      "titulo_es": "Chespirito: El Soldado Desobligado",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O General apresenta o novo teste de um para-quedas que já falhou 14 vezes. Tudo isso, só para descobrir quem é o namorado de sua filha."
+    },
+    {
+      "id": 131,
+      "titulo_pt": "Chapolin Colorado: Depois de jogarem o Chapolin, tapem o poço",
+      "titulo_es": "El Chapulín Colorado:Después de Chapulín Ahogado, Tapen el Pozo",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O terrível Rachacuca está de vigia no poço da comunidade, e ninguém poderá tirar água sem antes lhe pagar 5 dólares, ou um saquinho de alfafa."
+    },
+    {
+      "id": 132,
+      "titulo_pt": "Uma coisa é ser Sansão e outra é usar peruca",
+      "titulo_es": "Al que de Plano le Tomaron el Pelo Fue a Sansón",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O professor deseja roubar a peruca de Sansão, um artigo valiosíssimo, que dá super força para qualquer pessoa que a use."
+    },
+    {
+      "id": 133,
+      "titulo_pt": "Ainda que a cela seja de ouro, não deixa de ser chato ficar preso",
+      "titulo_es": "Aunque la Jaula Sea de Oro, No Deja de ser Muy Molesto eso de estar Encerrao",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O novo xerife da cidade, Rachacuca, prende Rosa a Revoltosa só porque ela não quis se casar com ele. Agora, o Chapolin terá de ajudá-la a escapar, além de ajudar o delegado e o policial com as bolas de ferro."
+    },
+    {
+      "id": 134,
+      "titulo_pt": "Chespirito: Uma pedra no caminho",
+      "titulo_es": "Chespirito: Limosnero con Garrote",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um casal, ao voltar para casa, percebe que há uma enorme pedra na frente da porta de entrada. Como o marido está com o braço quebrado, eles pedem ajuda ao mendigo Chespirito."
+    },
+    {
+      "id": 135,
+      "titulo_pt": "Chapolin Colorado: O extraterrestre",
+      "titulo_es": "El Chapulín Colorado: Algún Día los Terrícolas Llegarán a Marte, o por lo Menos a Estimarte",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Um marciano invade a terra e aparece em uma granja. Chapolin é chamado para ajudar, e decide usar a sua Corneta Paralisadora."
+    },
+    {
+      "id": 136,
+      "titulo_pt": "Dr. Chapatin: Doutor Chapatin no banco",
+      "titulo_es": "Dr. Chapatín: La Fila del Banco",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "Dr. Chapatin vai ao banco, e como era de se esperar, ele já causa confusão."
+    },
+    {
+      "id": 137,
+      "titulo_pt": "Chapolin Colorado: O Gorila sai da jaula",
+      "titulo_es": "El Chapulín Colorado: Aunque el Cuajinais se Vista de Seda, Mono se Queda",
+      "ano": 1974,
+      "temporada": 2,
+      "resumo": "O terrível Gorila escapa da cadeia e volta para se vingar do seu ex-patrão e seus ex-colegas de trabalho. Chapolin é chamado para ajudar, mas confunde o bandido com um boneco."
+    },
+    {
+      "id": 138,
+      "titulo_pt": "Selva",
+      "titulo_es": "La Mordida de la Víbora",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Dois homens (Carlos Villagrán e Ramón Valdés) invocam o Chapolin Colorado para ajudá-los a buscar Clarissa (Florinda Meza), uma mulher que sumiu no meio da floresta, onde estão acampando."
+    },
+    {
+      "id": 139,
+      "titulo_pt": "De médico, Chapolin e louco todo mundo tem um pouco",
+      "titulo_es": "De Médico, Chapulín y Loco, Todos Tenemos un Poco",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Chinesinho (Carlos Villagrán) e Tripa Seca (Ramón Valdés) estão no hospital, um gravemente ferido e o outro quase fora de perigo. Chapolin troca os prontuários, e diz que o ferido está bom, e que o bom está a ponto de morrer."
+    },
+    {
+      "id": 140,
+      "titulo_pt": "Dr. Chapatin: Doutor Chapatin, O Beijoqueiro",
+      "titulo_es": "Dr. Chapatín: La Apuesta del Beso",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Dr. Chapatin da um de beijoqueiro."
+    },
+    {
+      "id": 141,
+      "titulo_pt": "Chapolin Colorado: Roupa limpa suja-se em casa",
+      "titulo_es": "El Chapulín Colorado: La Ropa Limpia se Ensucia en Casa",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma mulher (Florinda Meza) está cansada de ver seu marido preguiçoso (Carlos Villagrán) inventando desculpas para não trabalhar e, por isso, resolve chamar o Chapolin Colorado."
+    },
+    {
+      "id": 142,
+      "titulo_pt": "Tostão chama tostão... e também o ladrão",
+      "titulo_es": "Dinero Llama a Dinero. Ah, pero También al Ratero",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um casal (Carlos Villagrán e Florinda Meza) perde o bilhete de loteria premiado. A esposa chama o Chapolin para ajudá-los a procurar o bilhete. Enquanto isso, um ladrão (Ramón Valdés) invade a casa, e o Chapolin pensa que ele é o marido da senhora."
+    },
+    {
+      "id": 143,
+      "titulo_pt": "Dr. Chapatin: Chamem o meu advogado!",
+      "titulo_es": "Dr. Chapatín: El Doctor está Preso",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Doutor Chapatin é preso e tem que dividir a cela com dois perigosos bandidos."
+    },
+    {
+      "id": 144,
+      "titulo_pt": "Chapolin Colorado: Um bandido bastante morto",
+      "titulo_es": "El Chapulín Colorado: Un Bandido Bastante Muerto",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Tripa Seca (Ramón Valdés) manda fazer uma estátua sua, de cera, para que possam fingir que ele está morto, e enterrem a estátua em seu lugar. Com isso, ele poderá cometer todos os crimes que quiser."
+    },
+    {
+      "id": 145,
+      "titulo_pt": "A lei da Marreta Biônica",
+      "titulo_es": "La Ley del Chipote Chillón",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Racha Cuca (Ramón Valdés) está preso, mas ele avisa ao xerife (Édgar Vivar) que seu amigo, Matoncicimo Kid (Carlos Villagrán), está para chegar, e que vai resgatá-lo, junto de sua filha Rosa a Rumorosa (Florinda Meza). Todos ficam com medo, mas Chapolin diz que \"a união faz a força\"."
+    },
+    {
+      "id": 146,
+      "titulo_pt": "Os piratas - parte 1",
+      "titulo_es": "Los Antiguos Piratas del Caribe, solo de vez en cuando Desviaban a Cuba - parte 1",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Lagartixa (Carlos Villagrán) e Pança Louca (Édgar Vivar) são chamados para enterrar um tesouro. Mas isso é uma má notícia, pois o terrível Alma Negra (Ramón Valdés) mata todos aqueles que o ajudam a enterrar os tesouros. Assustados, eles chamam o Chapolin Colorado."
+    },
+    {
+      "id": 147,
+      "titulo_pt": "Os piratas - parte 2",
+      "titulo_es": "Los Antiguos Piratas del Caribe, solo de vez en cuando Desviaban a Cuba - parte 2",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O pirata Alma Negra obriga os seus homens a enterrarem o tesouro. Por ser uma traidora, a taberneira (Florinda Meza) vai junto. Todos ficam preocupados pelo que pode acontecer, até que Chapolin tenta uma escapatória."
+    },
+    {
+      "id": 148,
+      "titulo_pt": "Irmãos gêmeos",
+      "titulo_es": "Cuando los Gemelos No son Buenos Cuates",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Em um teatro, dois gêmeos (Carlos Villagrán) ensaiam para o seu próximo espetáculo. O funcionário substituto do local (Ramón Valdés) não conhece os artistas e, por isso, não sabe que se tratam de gêmeos. Ele pensa que é um sujeito só, tirando uma com a cara dele."
+    },
+    {
+      "id": 149,
+      "titulo_pt": "O louco",
+      "titulo_es": "Con la Ley del Embudo, ni el Chapulín Pudo",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um louco surdo-mudo (Rubén Aguirre) está à solta. Ele entra no consultório do Dr. Chapatin e deixa todos muito assustados. Depois, Chapolin Colorado é chamado para ajudar a capturar o bandido."
+    },
+    {
+      "id": 150,
+      "titulo_pt": "Desativando a bomba",
+      "titulo_es": "Explotar un Negocio No Significa que hay que Ponerle una Bomba",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Quase Nada (Carlos Villagrán) prende o delegado (Ramón Valdés), com uma bomba. Chapolin Colorado é chamado para ajudar."
+    },
+    {
+      "id": 151,
+      "titulo_pt": "Onde Satanás manda, um pobre diabo não tem vez",
+      "titulo_es": "Donde Manda Satanás, No Gobierna un Pobre Diablo",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um casal inverte as tarefas diárias; a esposa (Florinda Meza) sai para trabalhar e o marido (Carlos Villagrán) é quem faz os serviços de casa. Este chama o Chapolin para ajudá-lo e, em meio a isso tudo, o vizinho engenheiro Perrin (Ramón Valdés) precisa usar o telefone da casa para falar com o médico da sua esposa."
+    },
+    {
+      "id": 152,
+      "titulo_pt": "Uma múmia incomoda muita gente, duas muito mais",
+      "titulo_es": "Las Momias No se Venden. ¡Ah, pero cómo se Vendan!",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um homem (Rubén Aguirre) se disfarça de múmia para assustar a guia do museu (Florinda Meza), sua ex-noiva. Chapolin Colorado é chamado, mas entra em pânico com a história da \"múmia viva\"."
+    },
+    {
+      "id": 153,
+      "titulo_pt": "Juleu e Romieta - parte 1",
+      "titulo_es": "La Romántica Historia de Juleo y Rumieta - parte 1",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Mais uma paródia de Chespirito, só que um pouco diferente. Desta vez, Chapolin participa da romântica história de \"Juleu e Romieta\" (uma paródia a Romeu e Julieta de William Shakespeare). É como sempre; Juleu Montesco (Carlos Villagrán) quer se casar com Romieta Capuleto (Florinda Meza), mas o pai da garota (Ramón Valdés) tem ódio mortal dos Montesco, e não quer permitir o casamento de jeito nenhum."
+    },
+    {
+      "id": 154,
+      "titulo_pt": "Romieta e Julieu - parte 2",
+      "titulo_es": "La Romántica Historia de Juleo y Rumieta - parte 2",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Julieu resolve fazer uma serenata para a sua amada; o pai de Rometa continua sendo contra. Rometa tem a ideia de se fingir de morta, para que seu pai se arrependa e resolva permitir o namoro dos dois. Mas isso pode resultar em uma tragédia."
+    },
+    {
+      "id": 155,
+      "titulo_pt": "Dr. Chapatin: A partida de futebol",
+      "titulo_es": "Dr. Chapatín: El Partido de Futbol",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O doutor Chapatin deseja ir a uma partida de futebol, mas seus pacientes ficam lhe atrasando."
+    },
+    {
+      "id": 156,
+      "titulo_pt": "Chapolin Colorado: A construção",
+      "titulo_es": "El Chapulín Colorado Más Mezcla Maistro",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O Sr. Porpeta (Édgar Vivar) está preocupado, pois se a construção de sua casa não for concluída a tempo, ele terá que fazer um quarto a mais para sua sogra. Para isso, contrata o arquiteto (Rubén Aguirre) que contrata o mestre de obras (Ramón Valdés) que agora só tem um pedreiro (Carlos Villagrán) a seu serviço, este chama o chapolin para ajudá-lo."
+    },
+    {
+      "id": 157,
+      "titulo_pt": "Quer apostar como nunca mais eu entro em uma aposta?",
+      "titulo_es": "Jamás Volveré a Jugar Apostando Dinero, y te Apuesto lo que quieras a que Cumplo",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Chapolin Colorado aposta com Cuajinais (Carlos Villagrán) e Tripa Seca (Ramón Valdés) o seguinte: se ele vencer a partida de sinuca, os bandidos deixam a vida de crimes e nunca mais apostam dinheiro. Mas se ele perder..."
+    },
+    {
+      "id": 158,
+      "titulo_pt": "A mansão dos duendes",
+      "titulo_es": "La Mansión de los Duendes",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma mulher (Florinda Meza) acredita que sua casa está infestada de duendes e, por isso, quer vender o imóvel. Seu marido (Carlos Villagrán) é contra, mas tudo muda quando um sujeito (Ramón Valdés) aparece no local, dizendo que tem poderes paranormais. O marido amassa com os bonêcos eletrônicos."
+    },
+    {
+      "id": 159,
+      "titulo_pt": "A volta da corneta paralizadora",
+      "titulo_es": "El Regreso de la Chicharra Paralizadora",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma garota (Florinda Meza) terá de se casar obrigatoriamente com um sujeito gordo,de voz fanha e rico (Carlos Villagrán), só porque seu pai (Ramón Valdés) está de olho na fortuna do rapaz. Desesperada, ela chama o Chapolin Colorado, que usa a sua famosa Corneta Paralisadora para resolver o problema. Mas para o tio (Rubén Aguirre) e Carlos não dá certo pois eles decidiram se vingar de Ramón e Florinda."
+    },
+    {
+      "id": 160,
+      "titulo_pt": "Chespirito: A história de Cristóvão Colombo",
+      "titulo_es": "Chespirito: La Historia de Cristóbal Colón. No como Fue, Sino como Pudo haber Sido",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Conta a história de Cristovão Colombo de um modo bem engraçado."
+    },
+    {
+      "id": 161,
+      "titulo_pt": "Chapolin Colorado: Vovô matusquela",
+      "titulo_es": "El Chapulín Colorado Un Juguete Llamado Chapulín",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Seu Vespusiano (Ramón Valdés), um velhinho que passa o dia brincando e dançando, tem causado muitos problemas. Afinal, ele não está muito bom da cabeça, e pegou um revólver de seu neto (Carlos Villagrán), o que pode resultar em um acidente. Chapolin é chamado para ajudar, e resolve se disfarçar de brinquedo, usando as suas famosas Pílulas Encolhedoras."
+    },
+    {
+      "id": 162,
+      "titulo_pt": "De caçador e de louco, todos nós temos um pouco",
+      "titulo_es": "De Chapulín, Cazador y Loco, Todos Tenemos un Poco",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um louco está à solta e Chapolin é chamado para ajudar a investigar, pois existem três suspeitos no caso. Quem será o verdadeiro culpado?"
+    },
+    {
+      "id": 163,
+      "titulo_pt": "Pedintes em família",
+      "titulo_es": "Limosnero y con Garrote",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um mendigo (Ramón Valdés) rouba o dinheiro arrecadado por outra mendiga (Florinda Meza), além de assaltar um turista (Carlos Villagrán). As duas vítimas pedem ajuda ao Chapolin Colorado."
+    },
+    {
+      "id": 164,
+      "titulo_pt": "O tesouro do pirata fantasma",
+      "titulo_es": "El Fantasma del Pirata",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma mulher (Florinda Meza) descobre um casarão, aparente abandonado. Mas por incrível que pareça, um sujeito (Carlos Villagrán) está no local para tentar achar o tesouro enterrado pelo seu tataravô (tem que pronunciar \"tata\" 14 vezes), o terrível pirata Alma Negra (Ramón Valdés), que já faleceu há muitíssimos anos."
+    },
+    {
+      "id": 165,
+      "titulo_pt": "Cleópatra",
+      "titulo_es": "La que Nace para Cleopatra No pasa de Julio Cesar",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma mulher acaba convidando, sem querer, seus dois namorados para visitá-la. E para piorar, os dois são terríveis bandidos. Um é o Quase Nada e o outro é o Shory. Assustada, ela chama o Chapolin. Depois de tudo resolvido, ele conta a história de Cleópatra, a famosa Rainha do Egito."
+    },
+    {
+      "id": 166,
+      "titulo_pt": "O planeta selvagem",
+      "titulo_es": "Aventuras en un Planeta Habitado por Salvajes, que Aunque Parezca Mentira, No es la Tierra",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Chapolin faz uma viagem diferente e sensacional; ele vai parar no planeta Vênus! Agora, terá de ajudar 2 astronautas, que ficaram presos por lá."
+    },
+    {
+      "id": 167,
+      "titulo_pt": "Sai de baixo que lá vem pedra",
+      "titulo_es": "De que Dicen a Pelear, del Cielo se Caen las Piedras",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um estudioso (Ramón Valdés), fascinado por aerolitos, precisa de seu bloquinho de anotações, mas ele não sabe onde está. O problema fica ainda maior quando, justamente neste dia, acontece o recorde mundial de queda de pedras... quero dizer... aerolitos."
+    },
+    {
+      "id": 168,
+      "titulo_pt": "Chapolin Colorado: Irmão meio biruta",
+      "titulo_es": "El Chapulín Colorado Lo Chiflado No Quita lo Cantado",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Uma mulher (Florinda Meza) recebe a notícia de que o seu namorado (Carlos Villagrán) está chegando com seu pai (Ramón Valdés) para visitá-la e apresentá-la, pois tem a intenção de se casar com ela o quanto antes. Porém, a moça não quer casamento e resolve pedir para que Chapolin se passe por seu irmão louco, para tentar afugentar o namorado."
+    },
+    {
+      "id": 169,
+      "titulo_pt": "Chespirito: A história de Guilherme Tell",
+      "titulo_es": "Chespirito: La Historia de Guillerme Tell. No como Fue, Sino como Pudo haber Sido",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Conta a história de Guilherme Tell."
+    },
+    {
+      "id": 170,
+      "titulo_pt": "O estranho e misterioso caso do morto que morreu",
+      "titulo_es": "El extraño y misterioso caso del difunto que se murió",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Tripa Seca (Ramón Valdés) resolve se fingir de morto para que a polícia deixe de persegui-lo. Assim, ele poderá cometer todos os crimes que quiser. Mas o ajudante (Carlos Villagrán) do detetive Canon (Édgar Vivar), que está investigando o caso, ouve tudo. Agora, ele e o Chapolin correm perigo."
+    },
+    {
+      "id": 171,
+      "titulo_pt": "Chespirito: A história de Dom Juan Tenorio",
+      "titulo_es": "Chespirito: La Historia de Don Juan Tenorio. No como Fue, Sino como Pudo haber Sido",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Conta a história de Dom Juan Tenório de uma maneira cômica com rimas."
+    },
+    {
+      "id": 172,
+      "titulo_pt": "Chapolin Colorado: Os marcianos",
+      "titulo_es": "El Chapulín Colorado Marcianos Desanforizados",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O professor (Ramón Valdés) descobre que os marcianos estão planejando invadir a Terra. Só que eles são seres super-arqui-multi-microscópicos e viajam em um mini disco voador."
+    },
+    {
+      "id": 173,
+      "titulo_pt": "O relógio da espiã",
+      "titulo_es": "Historia de un Reloj que ni se Adelantaba ni se Atrasaba, sino todo lo Contrario",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "Um detetive (Ramón Valdés) está seguindo uma espiã (Florinda Meza) de fama internacional. Ao mesmo tempo, a mulher dá um relógio de presente ao Chefe do Estado Maior (Édgar Vivar)."
+    },
+    {
+      "id": 174,
+      "titulo_pt": "A mansão dos fantasmas",
+      "titulo_es": "La mansión de los fantasmas",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 175,
+      "titulo_pt": "Chapolin Colorado: ?",
+      "titulo_es": "El Chapulín Colorado ?",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 176,
+      "titulo_pt": "Chapolin Colorado: ?",
+      "titulo_es": "El Chapulín Colorado ?",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 177,
+      "titulo_pt": "Chapolin Colorado: ?",
+      "titulo_es": "El Chapulín Colorado ?",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 178,
+      "titulo_pt": "Chapolin x Hitler: O encontro do século",
+      "titulo_es": "El Chapulín vs Hitler: El encuentro del siglo",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O Chapolin Colorado luta na Segunda Guerra Mundial contra Hitler, utilizando muito sua estratégia pessoal."
+    },
+    {
+      "id": 179,
+      "titulo_pt": "Os piratas - parte 3",
+      "titulo_es": "Los Antiguos Piratas del Caribe, solo de vez en cuando Desviaban a Cuba - parte 3",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 180,
+      "titulo_pt": "A forca",
+      "titulo_es": "Los bandidos se pueden regenerar",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O Chapolin Colorado é ameaçado por vaqueiros malvados, que tentam enforcá-lo."
+    },
+    {
+      "id": 181,
+      "titulo_pt": "R.S.E.",
+      "titulo_es": "R.S.E.",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "O Chapolin Colorado ajuda um cientista a localizar um importante rato."
+    },
+    {
+      "id": 182,
+      "titulo_pt": "O aprendiz de super-herói",
+      "titulo_es": "Cómo convertirse en héroe en cuatro fáciles lecciones",
+      "ano": 1975,
+      "temporada": 3,
+      "resumo": "?"
+    },
+    {
+      "id": 183,
+      "titulo_pt": "Quem perde a guerra, bebe água",
+      "titulo_es": "En las Guerras Médicas, la Bayoneta se Llamaba Bisturí",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "No meio de uma guerra, o capitão (Rubén Aguirre) toma o cantil de água do sargento (Horacio Gómez), o único restante em todo o campo de batalha, e proíbe a todos de tomar a água contida nela, pois eles precisarão usá-la mais tarde. Porém, o sargento enlouquece e todos ficam preocupados."
+    },
+    {
+      "id": 184,
+      "titulo_pt": "O abominável homem das neves",
+      "titulo_es": "El Misterio del Abominable Hombre de las Nieves",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dois excursionistas (Carlos Villagrán e Florinda Meza) encontram uma cabana abandonada e resolvem passar a noite lá. Porém, mais tarde, coisas estranhas começam a acontecer e eles ficam com medo da terrível lenda do \"Abominável Homem das Neves\" (Ramón Valdés)."
+    },
+    {
+      "id": 185,
+      "titulo_pt": "O patrão é quem manda",
+      "titulo_es": "Los Costales Caben en Todo Lado, Sabiéndolos Acomodar",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Uma enfermeira (Florinda Meza) chama o Chapolin para que ajude a buscar um sujeito que foi mordido por um cachorro e que contraiu raiva. Porém, ela não sabe como é o homem, e eles terão de investigar para descobrir. Ao mesmo tempo, Chapolin ajuda um peão (Ramón Valdés) com o seu trabalho com o patrão (Rubém Agurrie) e o fotografo americano (Horacio Gómez Bolaños)."
+    },
+    {
+      "id": 186,
+      "titulo_pt": "Caratê cara a cara",
+      "titulo_es": "El Campeón de Karate Amaneció de Mal Karater",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um honorável medidor de luz (Carlos Villagrán) encontra uma gueixa (Florinda Meza) e seu pai (Ramón Valdés), quando vai medir a luz da casa de ambos. Mas, sem querer, ele se casar com a moça, e o pai dá início aos preparativos para a cerimônia. O honorável medidor de luz fica com medo e chama o Chapolin, que será obrigado a lutar com um famoso carateca(Rubén) para livrar o homem da promessa que fez."
+    },
+    {
+      "id": 187,
+      "titulo_pt": "História de bruxas",
+      "titulo_es": "Cuento de Brujas",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "A pobre camponesa de nobre coração que vai todos os dias ao bosque recolher lenha (Florinda Meza) é ameaçada pela terrível Bruxa Baratuxa (María Antonieta); se ela não se casar com o horrível filho da bruxa (Carlos Villagrán), pode se tornar árvore ou árbitro de futebol. Para dificultar, o lenhador(Ramón) não sabe da história e corre risco de cortar a camponesa em forma de árvore sem saber de quem se trata."
+    },
+    {
+      "id": 188,
+      "titulo_pt": "O lobisomem que uiava em português",
+      "titulo_es": "El Hombre Lobo Aullaba en Español",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um cientista (Ramón Valdés) inventa um líquido maravilhoso: o debilitador potencial. Este líquido é capaz de amolecer qualquer coisa. Ou seja, até um tijolo pode ficar macio. Mas há um vilão (Horacio Gómez) atrás desse invento, e Chapolin Colorado é chamado para ajudar."
+    },
+    {
+      "id": 189,
+      "titulo_pt": "As bombas fazem muito mal em jejum",
+      "titulo_es": "Las Bombas Hacen Mucho Daño en Ayuna",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Quase Nada (Carlos Villagrán) quer pegar de volta uma nota promissória. Para isso, ele vai ao escritório do advogado (Rubén Aguirre) com seus capangas, e como não encontra o que estava procurando, decide colocar uma bomba no escritório."
+    },
+    {
+      "id": 190,
+      "titulo_pt": "O ventrilouco",
+      "titulo_es": "Si los Ventrílocuos Hablan con el Estómago, que Trompudos son los Panzones",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Chapolin destrói o melhor boneco de um grande ventríloquo (Rubén Aguirre), e terá de substituir o papel do boneco, enganando um famoso empresário teatral (Horacio Gómez)."
+    },
+    {
+      "id": 191,
+      "titulo_pt": "O sumiço do anel de brilhante",
+      "titulo_es": "Hay Ladrones que de Plano hasta Cometen Falta de Honradez",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um anel de brilhantes desaparece e seu dono (Rubén Aguirre) culpa a empregada (Florinda Meza). Ela pede a ajuda do Chapolin, que resolve investigar. Depois, o patrão contrata um detetive particular (Carlos Villagrán) para que busque o anel, mas descobre-se que este é um terrível bandido que escapou da prisão"
+    },
+    {
+      "id": 192,
+      "titulo_pt": "O roubo da múmia",
+      "titulo_es": "Las Pirámides Egipcias son Piedra por Fuera y Momias por Dentro",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Três arqueólogos (Carlos Villagrán, Florinda Meza e Horacio Gómez) vão às pirâmides do Egito procurar tesouros maravilhosos, mas se deparam apenas com um árabe valentão (Rubén Aguirre) e uma múmia viva."
+    },
+    {
+      "id": 193,
+      "titulo_pt": "Se trocam Cérebros à domicílio.",
+      "titulo_es": "Se Cambian Cerebros a Domicilio. Aceptamos su Cerebro Usado como Enganche",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um cientista louco (Ramón Valdés) pretende realizar um transplante de cérebros. Todos os seus companheiros cientistas ficam contra e se recusam a ajudá-lo. Ameaçado e assustado, ele resolve chamar o Chapolin Colorado, e aproveita a oportunidade para mostrar seus \"magníficos inventos\"."
+    },
+    {
+      "id": 194,
+      "titulo_pt": "A cidade perdida",
+      "titulo_es": "No Tiene la Culpa el Indio, sino el que lo Hace Fernández",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dois arqueólogos (Carlos Villagrán e Florinda Meza) descobrem a Tribo Discoteca, que ainda é habitada, por incrível que pareça. Carne Seca (Ramón Valdés), o chefe da tribo, prende os arqueólogos e diz que se não puder casar com a mocinha, ambos serão sacrificados."
+    },
+    {
+      "id": 195,
+      "titulo_pt": "Quem disse que Sansão não tinha um jeito de tonto?",
+      "titulo_es": "¿Quién Dijo que Sansón no Tenía un Pelo de Tonto?",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Uma mulher (Florinda Meza), que já está cansada de ver seu marido (Carlos Villagrán) fazer exercícios o dia todo, resolve chamar o Chapolin Colorado para ajudá-la. Nosso herói, então, conta ao sujeito a história de Sansão, o homem mais forte do mundo."
+    },
+    {
+      "id": 196,
+      "titulo_pt": "Há hotéis tão limpos que limpam até carteira",
+      "titulo_es": "Hay Hoteles tan Higiénicos que hasta la Cartera te Limpian",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O gerente do hotel (Rubén Aguirre) está cobrando o dobro do combinado pela conta do casal (Carlos Villagrán e Florinda Meza), que não tem dinheiro. Eles ficam proibidos de sair do hotel, a menos que paguem a conta e, por isso, chamam o Chapolin Colorado."
+    },
+    {
+      "id": 197,
+      "titulo_pt": "Dr. Chapatin: Doutor Chapatin, o assassino!",
+      "titulo_es": "Dr. Chapatín: El Doctor es un Asesino",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dr. Chapatin conta para sua enfermeira que é um assassino, pois atropelou alguém com seu carro."
+    },
+    {
+      "id": 198,
+      "titulo_pt": "Chapolin Colorado: Morte ao Chapolin!",
+      "titulo_es": "El Chapulín Colorado: Cómo Aplastar a un Chapulín sin Mortificar a la Sociedad Protectora de Animales",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dois bandidos (Ramón Valdés e Rubén Aguirre) obrigam um homem (Carlos Villagrán) a matar o Chapolin Colorado. Do contrário, quem corre o risco de morrer é a sua esposa (Florinda Meza)."
+    },
+    {
+      "id": 199,
+      "titulo_pt": "Um bairro muito tranquilo",
+      "titulo_es": "Un Barrio Tranquilo, Tranquilo, Tranquilo",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O terrível Tripa Seca (Ramón Valdés) está de volta para aterrorizar a todos. Mas o reinado dele pode estar com os dias contados, já que o cantineiro do bar do bairro (Rubén Aguirre) é muito mais valente. Chapolin Colorado é chamado para resolver a situação."
+    },
+    {
+      "id": 200,
+      "titulo_pt": "O vazamento de gás",
+      "titulo_es": "De los Delincuentes que se Fugan, el Más Peligroso se Llama Gas",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um botijão de gás explode num apartamento e Chapolin é chamado para ajudar um casal(Carlos e Florinda). Depois, ele descobre um fio solto e começa a puxá-lo para saber do que se trata. Só que o fio é do lustre do vizinho de baixo(Ramón) e a confusão começa."
+    },
+    {
+      "id": 201,
+      "titulo_pt": "O retrato do General Valdés",
+      "titulo_es": "Si a ti te Gusta el Arte, Métete al Refrigerador",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um pintor (Carlos Villagrán) fica desesperado ao saber que sua empregada (Florinda Meza) estragou uma de suas obras-primas. Ele chama o Chapolin Colorado para ajudar, só que o nosso herói estraga outra de suas obras-primas: o retrato do General Valdés (Ramón Valdés), que deveria ser entregue naquele mesmo dia. Ao mesmo tempo, Chapolin resolve contar a história de Leonardo da Vinci, não como foi... senão como poderia ter sido."
+    },
+    {
+      "id": 202,
+      "titulo_pt": "Quem me dá uma mão?",
+      "titulo_es": "No se Vale Mano Negra",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Chapolin perde sua mão em um acidente e é obrigado a fazer um transplante. O problema é que o médico (Carlos Villagrán) lhe deu a mão de uma bailarina, e agora muitas coisas estranhas vão acontecer!"
+    },
+    {
+      "id": 203,
+      "titulo_pt": "Para um baixinho, descer da calçada é cair no vazio",
+      "titulo_es": "Para un Chaparro, Bajar de la Banqueta es Caer al Vacío",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um faxineiro (Carlos Villagrán) deixa um documento importantíssimo cair pela janela, e sua patroa (Florinda Meza) fica furiosa. O caso é que o documento não caiu, e sim voou, indo parar no mastro mais alto do edifício. Agora, Chapolin é chamado e terá de usar toda sua astúcia para recuperar o papel."
+    },
+    {
+      "id": 204,
+      "titulo_pt": "História de uma velha mina abandonada, da época do século XVII e que está a ponto de desmoronar",
+      "titulo_es": "Historia de una Vieja Mina Abandonada, que Data del Siglo XVII y que está a Punto de Derrumbarse",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "A mocinha (Florinda Meza) foi presa em uma velha mina abandonada, datada do século XVII, e que está a ponto de desmoronar por um vilão (Carlos Villagrán), e chama o Chapolin Colorado para ajudar, mas quem aparece é Super Sam (Ramón Valdés). Depois, Chapolin também surge e, como sempre, os dois começam a brigar para ver quem vai salvar a mocinha."
+    },
+    {
+      "id": 205,
+      "titulo_pt": "A dona da ilha dos homens",
+      "titulo_es": "La Isla de los Hombres Casi Solos",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Tripa Seca (Ramón Valdés) quer fugir da ilha onde está prisioneiro, mas seu colega (Carlos Villagrán), o capataz (Rubén Aguirre) e a dona do local (Florinda Meza) não querem deixar de jeito nenhum. Por isso, ele invoca o Chapolin Colorado."
+    },
+    {
+      "id": 206,
+      "titulo_pt": "Dr. Chapatin: O gato",
+      "titulo_es": "Dr. Chapatín: El Gato",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dr. Chapatin atende um paciente (Ramón Valdés) que está todo estourado porque foi descer uma escada, pisou no rabo de um gato, o gato miou, ele se assustou, tropeçou e rolou a escada."
+    },
+    {
+      "id": 207,
+      "titulo_pt": "Chapolin Colorado: O morto do baú",
+      "titulo_es": "El Chapulín Colorado: Un Difunto Bastante Muerto",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um vendedor ambulante (Ramón Valdés) entra em uma casa e descobre um cadáver (Ricardo de Pascual) dentro de um baú. Assustado, ele chama o Chapolin Colorado."
+    },
+    {
+      "id": 208,
+      "titulo_pt": "Os documentos confidenciais",
+      "titulo_es": "Ponte los Audífonos y Agarra la Onda",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dois detetives (Ramón Valdés e Carlos Villagrán) estão tentando escutar os planos de um casal de bandidos (Florinda Meza e Rubén Aguirre), usando microfones ocultos. Mas os bandidos resolvem chamar o Chapolin para ajudá-los a procurar os tais microfones."
+    },
+    {
+      "id": 209,
+      "titulo_pt": "Dr. Chapatin: Menino ou menina?",
+      "titulo_es": "Dr. Chapatín: La Apuesta",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O vigía (Ramón Valdés) e um homem (Carlos Villagrán) fazem uma aposta no consultório do Dr. Chapatin."
+    },
+    {
+      "id": 210,
+      "titulo_pt": "Chapolin Colorado: A caricatura",
+      "titulo_es": "El Chapulín Colorado: Las Caricaturas me Hacen Llorar",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Uma desenhista (María Antonieta) tem que fazer o retrato do Sr. Valdés. Porém, a sua oficina ficou trancada por dentro. Ela decide chamar o Chapolin Colorado, que usa suas famosas pastilhas encolhedoras para entrar no local e terminar o retrato."
+    },
+    {
+      "id": 211,
+      "titulo_pt": "Buffalo Bill",
+      "titulo_es": "A Buffalo Bill le Decían Buffalo porque era Bastante Animal. Lo del Apellido si es mera Coincidencia",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Os índios estão desesperados, pois o famoso caçador Buffalo Bill (Ramón Valdés) foi contratado para matá-los. Por isso, resolvem chamar o Chapolin. Mas ele não contava com a astúcia do caçador."
+    },
+    {
+      "id": 212,
+      "titulo_pt": "Dr. Chapatin: A troca de radiografias",
+      "titulo_es": "Dr. Chapatín: Las Radiografias",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O Dr. Chapatin troca as radiografias de um paciente com as de um cachorro."
+    },
+    {
+      "id": 213,
+      "titulo_pt": "Chapolin Colorado: O fotógrafo",
+      "titulo_es": "El Chapulín Colorado: Fotógrafos Vemos, Mañas No Sabemos",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Uma mulher (Florinda Meza) se hospeda em um hotel e não quer que tirem fotos de sua cachorrinha famosa. Chapolin é chamado para ficar como guarda-costas da Condessa (nome da cachorra) e confunde tudo, pensando que está como guarda-costas da senhora."
+    },
+    {
+      "id": 214,
+      "titulo_pt": "Dr. Chapatin: Examinando os astronautas",
+      "titulo_es": "Dr. Chapatín: Examen a los Astronautas",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Dr. Chapatin examina quatro astronautas (Ramón Valdés, Carlos Villagrán, Rubén Aguirre e Édgar Vivar), para saber se eles estão aptos para \"subir\"."
+    },
+    {
+      "id": 215,
+      "titulo_pt": "Chapolin Colorado: O pirata do asteroide",
+      "titulo_es": "El Chapulín Colorado: Si los Astronautas Llegan a Marte, tú Debes Corresponderle con un Cariño Igual",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Depois de muitos anos, um dos astronautas (Ramón Valdés) examinados pelo Dr. Chapatin resolve se vingar de seus companheiros, subindo até o espaço com um aparelho capaz de destruir a Terra."
+    },
+    {
+      "id": 216,
+      "titulo_pt": "A bela adormecida era um senhor muito feio - parte 2",
+      "titulo_es": "La Bella Durmiente era una Señor Muy Feo - parte 2",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Chapolin Colorado tenta educar Chimpandolfo. Mas o cavernícola continua causando muitos problemas, especialmente quando se trata de roubar bananas."
+    },
+    {
+      "id": 217,
+      "titulo_pt": "A bela adormecida era um senhor muito feio - parte 3",
+      "titulo_es": "La Bella Durmiente era una Señor Muy Feo - parte 3",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Desta vez, o Prof. Popov e sua sobrinha Natasha decidem dar um jantar, para mostrar ao comissário (Horacio Gómez) como o cavernícola está comportado."
+    },
+    {
+      "id": 218,
+      "titulo_pt": "Ser pequeno tem as suas vantagens",
+      "titulo_es": "Todo Queda en Familia",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Com pena de Seu Madruga ser sempre mal tratado por dona Florinda, Chaves chama o Chapolin Colorado. Nisso, ele tenta mostrar a todos que o herói está ali na vila, mas ninguém acredita. No final, Chapolin usa suas pílulas encolhedoras para conversar com dona Florinda."
+    },
+    {
+      "id": 219,
+      "titulo_pt": "É aqui onde vive o defunto?",
+      "titulo_es": "¿Es Aquí donde Vive el Difunto?",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Uma mulher (Florinda Meza) chama um paranormal (Ramón Valdés) para que entre em contato com seu ex-marido através de uma sessão espírita. Mas sua empregada (María Antonieta) e seu marido atual (Carlos Villagrán), que é sonâmbulo, vão assustar a todos!"
+    },
+    {
+      "id": 220,
+      "titulo_pt": "De acordo com o diabo",
+      "titulo_es": "El Chirrín Chirrión del Diablo",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um sujeito ambicioso (Rubén Aguirre) namora uma garota (Florinda Meza) só para ter acesso aos arquivos do pai dela (Ramón Valdés), que é cientista e está bolando um invento secreto. Chapolin é chamado para ajudar no invento, mas aproveita a oportunidade para contar ao vilão a história de Fausto, um velho que desejava uma mulher, além de poder e juventude."
+    },
+    {
+      "id": 221,
+      "titulo_pt": "Dr. Chapatin: A ameixa passa",
+      "titulo_es": "Dr. Chapatín: La Ciruela Pasa",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um vídeo musical estrelado pelo Dr. Chapatin."
+    },
+    {
+      "id": 222,
+      "titulo_pt": "Chapolin Colorado: Não se diz \"estuata\", se diz \"menumento\"",
+      "titulo_es": "El Chapulín Colorado: No se Dice \"Estuata\", se Dice \"Menumento\"",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Rubén é um sujeito que adora pregar peças nos outros, mas sua sobrinha (Florinda Meza) não quer que ele faça isso com seu marido (Carlos Villagrán), pois este sofre do coração e, com um susto muito forte, poderia até morrer."
+    },
+    {
+      "id": 223,
+      "titulo_pt": "O pelotão de fuzilamento",
+      "titulo_es": "No es lo Mismo \"el Pelotón de la Frontera\", que \"la Pelotera del Frontón\"",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um caminhão atola e seus 3 passageiros (Ramón Valdés, Carlos Villagrán e Florinda Meza) ficam presos em uma região proibida com general (Rubén). Se eles não passarem pela fronteira até às 6 da tarde, serão fuzilados. Assustados, resolvem chamar o Chapolin."
+    },
+    {
+      "id": 224,
+      "titulo_pt": "Operação Tripa Seca",
+      "titulo_es": "Los Valientes Mueren Pandeados",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um casal (Florinda Meza e Rubén Aguirre) sai de casa, deixando o Bebê sozinho. O problema é que Tripa Seca (Ramón Valdés), um bandido foragido da polícia, invade o local. Ao descobrirem isso, eles decidem chamar o Chapolin Colorado, no final encontrou o cachorrinho."
+    },
+    {
+      "id": 225,
+      "titulo_pt": "Em casa de fantasmas, até os mortos se assustam",
+      "titulo_es": "En la Casa del Fantasma hasta los Muertos se Asustan",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um casal (Carlos Villagrán e Florinda Meza) terá de passar a noite em uma mansão sombria, para poder ficar com o imóvel. Coisas estranhas começam a acontecer e a mocinha chama o Chapolin."
+    },
+    {
+      "id": 226,
+      "titulo_pt": "Mais vale mulher jovem, rica e bonita do que velha, pobre e feia",
+      "titulo_es": "Más vale una Mujer Joven, Rica y Bonita, que una Vieja, Pobre y Fea",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "A Menina (Florinda Meza) namora com o Prof. Baratinha (Carlos Villagrán) só por causa de seus inventos maravilhosos. Ela deseja se apoderar das fórmulas e projetos, mas o namorado diz que tudo está guardado na casa do Chapolin Colorado."
+    },
+    {
+      "id": 227,
+      "titulo_pt": "O cofre do pirata",
+      "titulo_es": "El Cofre del Pirata",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Um casal (Carlos Villagrán e Florinda Meza) precisa pagar a hipoteca da casa, mas estão sem dinheiro. Por isso, decidem chamar o Chapolin, que acaba descobrindo um mapa do tesouro, pertencente ao tataravô de Carlos, o pirata Alma Negra (Ramón Valdés). Eles decidem ir atrás do tesouro, mas não contavam com a esperteza e ganância de outros piratas."
+    },
+    {
+      "id": 228,
+      "titulo_pt": "O caso de dois homens que eram tão parecidos, que eram idênticos, sobretudo um deles",
+      "titulo_es": "El caso de dos hombres que eran tán parecidos, que eran idénticos, sobretodo uno de ellos",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Chapolin Colorado encontra um homem idêntico a ele. Isso vai causar muitos problemas."
+    },
+    {
+      "id": 229,
+      "titulo_pt": "Bebê de carne sem osso",
+      "titulo_es": "Bebé de Carne sin Hueso",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "Carlos e Florinda querem ir a uma festa, mas não têm com quem deixar sua bebê. Por isso, resolvem chamar o Chapolin Colorado, e este fica como babá. Depois, um ladrão entra na casa e diz que só quer alguma coisa de comer. Chapolin faz uma janta para o bandido e, em troca, ele ajuda o Chapolin a cuidar da menina.Nota: Resumo baseado na versão de 1979."
+    },
+    {
+      "id": 230,
+      "titulo_pt": "O robô que pirou",
+      "titulo_es": "El robot",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O Chapolin Colorado tem que ajudar um cientista que está sendo ameaçado por um robô."
+    },
+    {
+      "id": 231,
+      "titulo_pt": "O bandido do dospital",
+      "titulo_es": "El Bandido del Hospital",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O Chapolin Colorado tem que salvar um homem que está sendo ameaçado de morte por um delinquente que se disfarça de qualquer coisa."
+    },
+    {
+      "id": 232,
+      "titulo_pt": "A bela adormecida era um senhor muito feio - parte 1",
+      "titulo_es": "La Bella Durmiente era una Señor Muy Feo - parte 1",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O prof. Popov (Carlos Villagrán) descobre Chimpandolfo (Ramón Valdés), um homem das cavernas que permaneceu congelado por milhares de anos."
+    },
+    {
+      "id": 233,
+      "titulo_pt": "O espião invisível",
+      "titulo_es": "El Hombre Invisible es tan Antipático que Nadie lo Puede Ver",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O Chapolin Colorado luta contra um homem invisível que se dedica a fazer os objetos desaparecer."
+    },
+    {
+      "id": 234,
+      "titulo_pt": "Dr. Chapatin: ?",
+      "titulo_es": "Dr. Chapatín: ?",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "?"
+    },
+    {
+      "id": 235,
+      "titulo_pt": "Chapolin Colorado: Os mortos são obedientes",
+      "titulo_es": "El Chapulín Colorado: Los muertos son obedientes",
+      "ano": 1976,
+      "temporada": 4,
+      "resumo": "O detetive leva Florinda ao necrotério, pois seu marido já sumiu há três dias, e pode muito bem estar morto. Assustada, ela decide chamar o Chapolin Colorado."
+    },
+    {
+      "id": 236,
+      "titulo_pt": "Os marcianos",
+      "titulo_es": "¿Sabía Usted que su Vecino Podría ser un Marciano?",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um marinheiro (Édgar Vivar) vê um disco voador e tenta avisar aos seus colegas, mas ninguém acredita nele. Chapolin Colorado é chamado para ajudar, mas nem desconfia que os marcianos já estão na Terra."
+    },
+    {
+      "id": 237,
+      "titulo_pt": "Dr. Chapatin: O rajá",
+      "titulo_es": "Dr. Chapatín: El Rajá de Kalambur",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um farsante que afirma ser o rajá de Kalambur (Ramón Valdés) oferece ao Dr.Chapatin seus serviços como anestesista e diz que hipnotiza qualquer pessoa."
+    },
+    {
+      "id": 238,
+      "titulo_pt": "O gigante",
+      "titulo_es": "El Chapulín Colorado: ¡Pero cómo has Crecido Muchacho!",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda chama Chapolin para matar uma aranha e conta para ele que seu marido (Carlos Villagrán) acredita na existência de homens antediluvianos (seres gigantescos). Chapolin diz que é lenda, mas fica mais do que surpreso quando se depara com um gigante de verdade (Rubén Aguirre)."
+    },
+    {
+      "id": 239,
+      "titulo_pt": "O matador de ratos - parte 2",
+      "titulo_es": "A Pistola Regalada no le Mires Agujero - parte 2",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Todos fazem um julgamento para saber se o homem matador de ratos é culpado ou não de ter atirado na Rosa Rumorosa."
+    },
+    {
+      "id": 240,
+      "titulo_pt": "Dr. Chapatin: Criando caso",
+      "titulo_es": "Dr. Chapatín: El Reloj Perdido",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Nesta esquete, Dr.Chapatin se irrita com uma pessoa (Ramón Valdés) em uma lanchonete, e acaba jogando seu relogio de bolso fora, mas ninguém sabe aonde caiu."
+    },
+    {
+      "id": 241,
+      "titulo_pt": "Chapolin Colorado: Ratos e Ratoeiras",
+      "titulo_es": "El Chapulín Colorado: Las Ratas No Usan Reloj",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin é chamado para ajudar a encontrar um relógio, que caiu no ralo de uma pia."
+    },
+    {
+      "id": 242,
+      "titulo_pt": "O ladrão do museu de cera",
+      "titulo_es": "Colección de Rateros",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Ramón rouba a bolsa de uma mulher que estava no telefone público. O policial tenta persegui-lo, mas não consegue. Por isso ele resolve chamar o Chapolin. Os dois ficam atrás do ladrão. Enquanto isso, Chapolin \"visita\" o museu próximo e se depara com estátuas de cera."
+    },
+    {
+      "id": 243,
+      "titulo_pt": "Antiguidade não é o mesmo que velharia",
+      "titulo_es": "No es lo Mismo Antigüedades que Vejestorios",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Os empregados do Prof. Imbecil fogem após encontrar um fóssil humano. O professor e seus ajudantes, desamparados, resolvem chamar o Chapolin Colorado para que os ajude. Ao mesmo tempo, uma repórter vai ao local para tirar fotografias. No final, eles não conseguem sair do lugar porque o caminhão atolou, e novamente o Chapolin terá de ajudar."
+    },
+    {
+      "id": 244,
+      "titulo_pt": "Onde estão os passarinhos?",
+      "titulo_es": "Más Vale Ratero en Jaula que Ciento Robando",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O sargento está aterrorizado, pois todos os presos conseguem fugir, e seu diretor está a ponto de fuzilá-lo por causa disso. Depois, o Chapolin tem a ideia de prender qualquer um que apareça, para fingir que o presídio está cheio, mas ele acaba prendendo o diretor, deixando-o ainda mais irritado."
+    },
+    {
+      "id": 245,
+      "titulo_pt": "Perdão, aqui é onde vive o morto?",
+      "titulo_es": "Perdón, Aquí es donde Vive el Muerto?",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um cientista louco cria um monstro chamado Panchostein, e ele necessita do sangue de uma jovem. Esta jovem chama o Chapolin para ajudá-la, e todos vão passar por momentos aterrorizantes no laboratório do cientista."
+    },
+    {
+      "id": 246,
+      "titulo_pt": "Dr. Chapatin: A caranga",
+      "titulo_es": "Dr. Chapatín: La Carcachita",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Apenas um clipe musical estrelado pelo Dr. Chapatin."
+    },
+    {
+      "id": 247,
+      "titulo_pt": "Chapolin Colorado: Os automóveis se afinam em Dó maior",
+      "titulo_es": "El Chapulín Colorado: Los Automóviles se Afinan en Dó Mayor",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin Colorado ajuda os mecânicos em uma oficina de carros."
+    },
+    {
+      "id": 248,
+      "titulo_pt": "Não seja burro, Chapolin!",
+      "titulo_es": "No Seas Torpe, Chapulín",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Os bandidos Quase-Nada (Carlos), Nenê (Rubén) e Tripa Seca (Ramón) decidem acabar de uma vez por todas com o Chapolin Colorado. Para isso, eles prendem a garota (Florinda) e fazem ela chamar o Chapolin. Chapolin aparece e Tripa Seca consegue convencê-lo a usar suas pastilhas encolhedoras. Agora, ele está minúsculo e pode ser esmagado a qualquer hora, por um dos bandidos."
+    },
+    {
+      "id": 249,
+      "titulo_pt": "Dr. Chapatin: O julgamento",
+      "titulo_es": "Dr. Chapatín: El Juicio",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin é acusado de atropelar um cachorrinho."
+    },
+    {
+      "id": 250,
+      "titulo_pt": "Chapolin Colorado: Lá no teto havia um buraquinho, que pingava muito, que pingava pouquinho",
+      "titulo_es": "El Chapulín Colorado: Allá en el Techo Había un Chorrito, se Hacía Grandote, se Hacía Chiquito",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda já está cansada de viver em uma casa cheia de goteiras, e reclama com o senhorio, mas este é um cafajeste que só quer-lhes arrancar dinheiro. Depois de muitas ameaças, Florinda se assusta e decide chamar o Chapolin Colorado, que por sua vez resolve esvaziar os baldes cheios d'água. Ou seja, vai sobrar molhadeira para todo mundo."
+    },
+    {
+      "id": 251,
+      "titulo_pt": "Dr. Chapatin: O boxeador",
+      "titulo_es": "Dr. Chapatín: El Boxeador",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin atende um boxeador todo destroçado (Carlos Villagrán)."
+    },
+    {
+      "id": 252,
+      "titulo_pt": "Chapolin Colorado: O extrato de energia vital",
+      "titulo_es": "El Chapulín Colorado: Mas Vale Silla en la Mano que me Siento Volando",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um cientista cria um invento maravilhoso, capaz de fazer os objetos voarem. Porém, há um bandido querendo roubar o invento. Agora, Chapolin Colorado é chamado para ajudar."
+    },
+    {
+      "id": 253,
+      "titulo_pt": "Dr. Chapatin: Os assaltantes de banco",
+      "titulo_es": "Dr. Chapatín: Los Asaltantes de Banco",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "A enfermeira escuta no rádio que dois assaltantes escaparam da polícia, e que um deles está gravemente ferido. Em seguida, chegam dois tipos no consultório: um gravemente ferido. Com isso, a enfermeira e o Dr. Chapatin pensam que os dois são os assaltantes do banco."
+    },
+    {
+      "id": 254,
+      "titulo_pt": "Chapolin Colorado: O mistério do Mandarim Celeste",
+      "titulo_es": "El Chapulín Colorado: El Misterio del Mandarín Celeste",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Carlos compra um precioso vaso Mandarim Celeste. O problema é que há uma lenda que diz que quem tiver o mandarim em seu poder, estará amaldiçoado. Assustada, Florinda chama o Chapolin."
+    },
+    {
+      "id": 255,
+      "titulo_pt": "Proibido pisar o piso",
+      "titulo_es": "Prohibido Pisar el Piso",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda e seu pai estão sendo ameaçados de despejo. Para piorar tudo, a casa onde moram está em um estado lastimável, a ponto de desabar. Chapolin é chamado para ajudar, mas acaba atrapalhando ainda mais."
+    },
+    {
+      "id": 256,
+      "titulo_pt": "Dr. Chapatin: O futuro defunto",
+      "titulo_es": "Dr. Chapatín: El Futuro Difunto",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin atende um paciente e diz que ele está a ponto de morrer. Porém, o paciente contraria o doutor e diz que não vai morrer de jeito nenhum!"
+    },
+    {
+      "id": 257,
+      "titulo_pt": "Chapolin Colorado: O lugar onde se mais se aplica injeções, se chama hospital",
+      "titulo_es": "El Chapulín Colorado: El Lugar Donde se Ponen Más Inyecciones se Llama Hospital",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin é chamado para ajudar um paciente que está gravemente doente, e que se nega a tomar a injeção apropriada."
+    },
+    {
+      "id": 258,
+      "titulo_pt": "Marreta Biônica calibre 45",
+      "titulo_es": "Chipote Chillón Calibre 45",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O terrível Racha-Cuca está de volta ao velho Oeste, e para tentar detê-lo, o banqueiro, o xerife e o dono do bar chamam o Chapolin Colorado, que decide pregar alguns cartazes do bandido por todo o povoado."
+    },
+    {
+      "id": 259,
+      "titulo_pt": "Dr. Chapatin: Precisamos de paciente",
+      "titulo_es": "Dr. Chapatín: Se Necesita un Paciente",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin está desesperado por um paciente, já que faz meses que não aparece nenhum."
+    },
+    {
+      "id": 260,
+      "titulo_pt": "Chapolin Colorado:Casamento com bruxa, não!",
+      "titulo_es": "El Chapulín Colorado:Matrimonio y Mortaja, Lana Sube y Lana Baja",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda está sendo obrigada pelo seu tio a se casar com um sujeito feio, só porque este ganhou na loteria. Ela nem conhece o rapaz, e portanto não quer nada com ele. Assustada, ela chama o Chapolin que faz uso de uma de suas armas favoritas: a Corneta Paralisadora."
+    },
+    {
+      "id": 261,
+      "titulo_pt": "Dr. Chapatin: Tem uma mosca no meu café",
+      "titulo_es": "Dr. Chapatín: Lo Sencillo que es Comer Gratis en un Restaurante",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin tem a grande ideia de caçar uma mosca e jogar no café para não ter que pagar a conta do restaurante. O problema agora vai ser encontrar a tal mosca."
+    },
+    {
+      "id": 262,
+      "titulo_pt": "Chapolin Colorado: Fantasma da pele vermelha",
+      "titulo_es": "El Chapulín Colorado: El Fantasma del Piel Roja",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin Colorado é chamado depois que Florinda descobre sobre a lenda do fantasma de Riacho Molhado (Carlos), um pele vermelha assustador, que aparece nas redondezas de vez em quando."
+    },
+    {
+      "id": 263,
+      "titulo_pt": "O Chapolin em Acapulco",
+      "titulo_es": "Un Chapulín en Acapulco",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O famoso ator Chato Resto, o irmão de Chapolin (Horacio) desiste de fazer o filme onde ia interpretar o Chapolin Colorado, e o verdadeiro Chapolin é chamado para ajudar. O problema, como sempre, é que ele só atrapalha. Enquanto isso, um louco perigoso (Carlos) está à solta e precisa ser capturado."
+    },
+    {
+      "id": 264,
+      "titulo_pt": "Dr. Chapatin: Jantar executivo",
+      "titulo_es": "Dr. Chapatín: Enfermos por Conveniencia",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Carlos tem que ir a uma reunião de negócios, mas sua esposa se faz de doente para que ele fique em casa. Mesmo assim, ele resolve chamar o Dr. Chapatin para cuidar de sua esposa. Depois de muita confusão, a mulher se lembra que é o dia de visitar a sua mãe, e se levanta da cama, dizendo que já está bem. Mas ao saber que terá de visitar a sogra, Carlos começa a se sentir muito doente."
+    },
+    {
+      "id": 265,
+      "titulo_pt": "Chapolin Colorado: Ovos podres e moscas",
+      "titulo_es": "El Chapulín Colorado: Ahora sí te están Comiendo el Mandado",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda chama o Chapolin Colorado para resolver dois problemas: primeiro, o dos ovos podres. E segundo, o de um ladrão que anda roubando comida."
+    },
+    {
+      "id": 266,
+      "titulo_pt": "O retorno da pistola paralisadora",
+      "titulo_es": "El Retorno de la Chicharra Paralizadora",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda está sendo intimidada por um homem, que deseja se casar com ela. Assustada, ela chama o Chapolin, que resolve usar sua pistola paralisadora. Porém, o tio da garota rouba a pistola e fica brincando com ela. Quem agora será capaz de devolver a pistola ao Chapolin?"
+    },
+    {
+      "id": 267,
+      "titulo_pt": "Sansão perdeu seu cabelão",
+      "titulo_es": "Sansón se Quedó Pelón",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O professor deseja roubar a peruca de Sansão, um artigo valiosíssimo, que dá super força para qualquer pessoa que a use."
+    },
+    {
+      "id": 268,
+      "titulo_pt": "A mim, meu selo",
+      "titulo_es": "A Mí, Mi Timbre",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda entrega um selo valioso para o delegado, mas ele diz que só vai pagar o valor original: 4 centavos. Indignada, ela chama o Chapolin Colorado, que toma uma de suas famosas pastilhas encolhedoras para tentar recuperar o selo."
+    },
+    {
+      "id": 269,
+      "titulo_pt": "Dr. Chapatin: As tarifas do doutor",
+      "titulo_es": "Dr. Chapatín: Las Tarifas del Doctor",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin atende um paciente que vive como \"dono de casa\", obedecendo ordens de sua mulher."
+    },
+    {
+      "id": 270,
+      "titulo_pt": "Chapolin Colorado: Eu não posso ver o homem invisível nem em pintura",
+      "titulo_es": "El Chapulín Colorado: Yo al Hombre Invisible No lo Puedo Ver ni en Pintura",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Sem querer, Ramón cria a fórmula da invisibilidade. Um sujeito que estava encarregado de pintar o escritório descobre e decide roubar o verniz. Chapolin é chamado para ajudar, mas acaba atrapalhando ainda mais."
+    },
+    {
+      "id": 271,
+      "titulo_pt": "Os animais que viajavam em disco voador",
+      "titulo_es": "Los Animales Viajan en Platillo Volador",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um marciano invade a terra e aparece em uma fazenda. Chapolin é chamado para ajudar, e decide usar a sua corneta paralisadora."
+    },
+    {
+      "id": 272,
+      "titulo_pt": "Dr. Chapatin: Na sala de emergência",
+      "titulo_es": "Dr. Chapatín: En la Sala de Emergencia",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin chega ao hospital com um Ramón totalmente \"estourado\". O homem foi atropelado e precisa de cuidados médicos, mas o doutor acaba arranjando muitas confusões na fila, por causa das fichas numéricas que lhe entregam."
+    },
+    {
+      "id": 273,
+      "titulo_pt": "Chapolin Colorado: Caçando sem luvas",
+      "titulo_es": "El Chapulín Colorado:Cachando sin Guante",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda tem medo de ficar sozinha em casa e tudo piora quando ela vê um vulto e uma mão vestindo luva negra (Ramón). Assustada, ela chama o Chapolin para investigar."
+    },
+    {
+      "id": 274,
+      "titulo_pt": "O cadáver morto de um defunto que faleceu ao morrer",
+      "titulo_es": "El Cadáver Muerto de un Difunto que Falleció al Morir",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Tripa Seca (Ramón), o famoso criminoso, resolve se fingir de morto para que a polícia deixe de lhe perseguir, e ele possa assim, cometer todos os crimes que quiser. Mas o ajudante do detetive que está investigando o caso ouve tudo. Agora ele e o Chapolin correm perigo."
+    },
+    {
+      "id": 275,
+      "titulo_pt": "Dr. Chapatin: Dando tratos à bola",
+      "titulo_es": "Dr. Chapatín: Clases de Golf",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin vai visitar um paciente, só que o mesmo precisa se ausentar por um instante e aí chega o professor de golfe do paciente, que acaba ensinando golfe para o Dr.Chapatin, pensando que ele é a pessoa que solicitou uma aula."
+    },
+    {
+      "id": 276,
+      "titulo_pt": "Chapolin Colorado: A vingança",
+      "titulo_es": "El Chapulín Colorado: Viejos Vemos, Reteros No Sabemos",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O terrível Fura Tripa escapa da cadeia e volta para se vingar do seu ex-patrão e seus ex-colegas de trabalho na firma. Chapolin é chamado para ajudar, mas confunde o bandido com um boneco."
+    },
+    {
+      "id": 277,
+      "titulo_pt": "A herança",
+      "titulo_es": "No es lo Mismo “Las Bombas de Agua” que “¡Aguas con la Bomba!”",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Paco e Hugo estão planejando assassinar seu tio, para poder ficar com sua herança. Sua outra prima, Luiza, não está de acordo e por isso ela acaba sendo presa por eles. Chapolin é chamado para investigar, e descobre que pilhas explosivas foram deixadas em algum lugar pela casa. Agora, resta saber onde estão escondidas."
+    },
+    {
+      "id": 278,
+      "titulo_pt": "Por mais que pese, não passa do piso do poço",
+      "titulo_es": "Por Más que Pese, No Pasa del Piso del Pozo",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O terrível Racha-Cuca está de vigia no poço da comunidade, e ninguém poderá tirar água sem antes lhe pagar 5 dólares, ou um saquinho de alfafa. Chapolin Colorado é chamado para ajudar, e resolve contar ao bandido como era a vida dos homens pré-históricos."
+    },
+    {
+      "id": 279,
+      "titulo_pt": "Tudo sobe, até os aviões - parte 1",
+      "titulo_es": "Todo Sube, hasta los Aviones - parte 1",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Carlos aplica o extrato de energia volátil nas paredes e no teto de sua casa. No dia seguinte, tudo desaparece e só então ele descobre que o extrato serve para fazer os objetos voarem. Sua sobrinha chama o Chapolin Colorado para ajudar a solucionar o mistério, mas enquanto isso, Carlos continua aplicando o extrato em outros objetos. Agora quem vai pagar o pato é o cientista que inventou o extrato."
+    },
+    {
+      "id": 280,
+      "titulo_pt": "A bola de cristal",
+      "titulo_es": "Bolita, por Favor",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Charlie compra uma bola de cristal. Porém, não é uma bola de cristal comum... é a bola de cristal do Rajá Kara Ra-Shada, e que vale mais de 500 mil pratas! Porém, há uma lenda que diz que quem tiver a bola em seu poder, estará amaldiçoado. Assustada, Florinda chama o Chapolin."
+    },
+    {
+      "id": 281,
+      "titulo_pt": "Os bebês não vêm mais de Paris; agora, vem de Júpiter",
+      "titulo_es": "Los Bebes ya No Vienen de París, Ahora Vienen de Júpiter",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um disco voador de brinquedo cai num hotel e Florinda o encontra. O mais surpreendente é que, neste \"brinquedo\", há um habitante do planeta Júpiter (Carlos Villagrán). Agora, eles vão ter que tomar cuidado, pois o bebezinho pode se tornar um monstro gigante."
+    },
+    {
+      "id": 282,
+      "titulo_pt": "A fortuna de Frédéric Chopin",
+      "titulo_es": "\"Melodía Bastante Inmortal\". Con la Historia de Frederico Chopin. No como fue, sino como pudo haber sido",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Mais uma paródia de Chespirito. Desta vez com a história de Frédéric Chopin."
+    },
+    {
+      "id": 283,
+      "titulo_pt": "Dr. Chapatin: Futebol, lá vou eu!",
+      "titulo_es": "Dr. Chapatín: El Partido de Futbol",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O doutor Chapatin deseja ir a uma partida de futebol, mas seu paciente fica lhe atrasando."
+    },
+    {
+      "id": 284,
+      "titulo_pt": "Chapolin Colorado: E de saúde, como anda o morto?",
+      "titulo_es": "El Chapulín Colorado: Y de Salud, cómo anda el Muerto?",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dois bandidos perigosos estão no hospital, um gravemente ferido e o outro quase fora de perigo. Chapolin troca os prontuários, e diz que o ferido está bom, e que o bom está a ponto de morrer."
+    },
+    {
+      "id": 285,
+      "titulo_pt": "Os do Norte correm muito e os do Sul ficaram para trás",
+      "titulo_es": "Los del Norte Corren Mucho y los del Sur se Quedarán Tras, Tras, Tras...",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin Colorado conta a história da guerra de secessão."
+    },
+    {
+      "id": 286,
+      "titulo_pt": "O menino que jogava os seus brinquedos - parte 1",
+      "titulo_es": "El Niño que Mandó sus Juguetes a Volar - parte 1",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Chapolin vai ajudar um casal (Carlos Villagrán e Florinda Meza) que está enfrentando um grande problema com seu filho mentiroso (María Antonieta de Las Nieves). Ele joga os seus brinquedos na rua e diz que um ladrão veio e roubou os brinquedos."
+    },
+    {
+      "id": 287,
+      "titulo_pt": "O menino que jogou fora os brinquedos - parte 2",
+      "titulo_es": "El Niño que Mandó sus Juguetes a Volar - parte 2",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Nesta segunda parte, o pai do menino contrata um detetive particular (Rubén Aguirre) para vigiar o menino e apanha do Chapolin. E, para piorar a situação, um ladrão de verdade (Ramón Valdés) aparece, só que ninguém acredita quando o menino conta isso."
+    },
+    {
+      "id": 288,
+      "titulo_pt": "Duende está aonde? Eh, perdão, aonde está o Duende?",
+      "titulo_es": "Duende está el Donde? Eh, perdón, dónde está el Duende?",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um menino conta para todos que no seu quarto há duendes. Como ninguém acredita, ele resolve chamar o Chapolin Colorado, que também duvida. Mesmo assim, ele resolve usar suas Pastilhas Encolhedoras para verificar o caso. Por causa de uma caixa de biscoitos, ele acaba caindo em um mundo alegre, cheio de palhaços, danças e tudo o mais. No final, o mistério todo é esclarecido quando o pai do menino conta que havia fabricado duendezinhos mecânicos e colocado no quarto de seu filho para que ele brincasse."
+    },
+    {
+      "id": 289,
+      "titulo_pt": "Não são todos os que estão, nem estão todos os que são",
+      "titulo_es": "No son Todos los que están, ni están Todos los que son",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Três loucos que vivem juntos estão sendo investigados por uma detetive. Eles são assassinos, e sua próxima vítima pode ser o Chapolin Colorado."
+    },
+    {
+      "id": 290,
+      "titulo_pt": "Dr. Chapatin: Comendo e padecendo",
+      "titulo_es": "Dr. Chapatín: La Indigestión",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Em um restaurante, Dr. Chapatin atende um homem que está passando mal por ter comido demais."
+    },
+    {
+      "id": 291,
+      "titulo_pt": "Chapolin Colorado: O bolo que deu bolo",
+      "titulo_es": "El Chapulín Colorado: El Caso del Pastel Envenenado",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Apesar de ser um episódio único, a história se divide em duas partes. No primeiro bloco, Florinda se recusa a casar com o vilão, e este tranca a mocinha em um quarto cheio de presentes de casamento. O problema é que, em um deles, há uma bomba. Depois de solucionar o caso, Chapolin retorna no segundo bloco para resolver um novo problema: o vilão, desta vez, colocou veneno em um dos bolos que o pai de Florinda está vendendo."
+    },
+    {
+      "id": 292,
+      "titulo_pt": "Hospedaria sem estrelas",
+      "titulo_es": "Todos Caben en un Cuartio Sabiéndolos Acomodar",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Um casal (Florinda e Rubén), dono de uma hospedaria, está assustado porque um ladrão está à solta. Eles resolvem pedir ajuda, só que um chama o Chapolin e o outro, o Super Sam (Ramón). Agora, os dois heróis vão acabar dormindo no mesmo quarto sem nem saber!"
+    },
+    {
+      "id": 293,
+      "titulo_pt": "Dr. Chapatin: O poste de luz",
+      "titulo_es": "Dr. Chapatín: El Poste de Luz",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Dr. Chapatin tenta ler um jornal, mas a luz do poste fica apagando o tempo todo."
+    },
+    {
+      "id": 294,
+      "titulo_pt": "Chapolin Colorado: O mau das fotografias é que saem tremidas",
+      "titulo_es": "El Chapulín Colorado: Lo Malo de las Fotografías es que Salen Movidas",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Florinda quer que tirem uma foto dela e de seu noivo (Carlos), antes do casamento. O problema é que eles já estão atrasados para pegar o avião, e descobrem que o fotógrafo faleceu. Agora, quem poderá ajudá-los? Chapolin Colorado, naturalmente. Mas esperem! Ele ajudará ou só complicará o caso?"
+    },
+    {
+      "id": 295,
+      "titulo_pt": "Uma conferência sobre o Chapolin",
+      "titulo_es": "Conferencia sobre un Chapulín",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O Dr. Chapatin se lembra dos melhores momentos do programas do Chapolin Colorado de 1976."
+    },
+    {
+      "id": 296,
+      "titulo_pt": "O matador de ratos - parte 1",
+      "titulo_es": "A Pistola Regalada no le Mires Agujero - parte 1",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Racha Cuca, um bandido do velho oeste, está de volta e ameaça todo o povoado. Ao mesmo tempo, um velhinho lhe oferece serviços para matar ratos, mas todos acham que ele é um assassino profissional."
+    },
+    {
+      "id": 297,
+      "titulo_pt": "Tudo sobe, até os aviões - parte 2",
+      "titulo_es": "Todo Sube, hasta los Aviones - parte 2",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "Nesta segunda parte, Carlos fala para o Doutor Monchito como faz para as paredes e os tetos voltarem para a casa dele. Ele diz que não vão voltar e vão parar em algum outro lugar. Ele fica com raiva, mas o doutor insiste para ele devolver o invento, já que ele não vai usar mais. Entretanto, Carlos nega a devolver o invento e começa uma confusão."
+    },
+    {
+      "id": 298,
+      "titulo_pt": "Os fantasmas do Velho Oeste",
+      "titulo_es": "Los fantasmas del Viejo Oeste",
+      "ano": 1977,
+      "temporada": 5,
+      "resumo": "O Chapolin Colorado toma uma de suas pílulas encolhedora para deter um perigoso delinquente."
+    },
+    {
+      "id": 299,
+      "titulo_pt": "Nós e os fantasmas",
+      "titulo_es": "Más Vale 100 Fantasmas Volando que uno la Mano",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin é chamado para investigar misteriosos acontecimentos em um teatro abandonado. Ao que tudo indica, o famoso diretor Massimo Tortura já faleceu há 50 anos, mas continua aparecendo no local."
+    },
+    {
+      "id": 300,
+      "titulo_pt": "Tripas de cera",
+      "titulo_es": "Casi un Velorio",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Tripa Seca resolve se fingir de morto para enganar todo mundo e, assim, poder cometer os mais terríveis crimes sem que ninguém desconfie de nada. Porém, ao saber de sua morte, o Chapolin Colorado lembra dos seus tempos de infância, e diz que já foi muito amigo de Tripa Seca."
+    },
+    {
+      "id": 301,
+      "titulo_pt": "O presente de casamento",
+      "titulo_es": "Se Regalan Ratones",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Florinda se engana e, sem querer, manda uma caríssima televisão a cores para a filha do zelador, e dois simples vasos de flores para o melhor amigo de seu patrão. Além disso, o seu primo está louco e vê marcianos por todos os lados. Resumindo: ela é obrigada a chamar o Chapolin Colorado."
+    },
+    {
+      "id": 302,
+      "titulo_pt": "Branca de Neve e os sete Tchuim Tchuim Tchum Claim - parte 1",
+      "titulo_es": "Blanca de Nieves y los 7 Churín Churín Fun Flais - parte 1",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin Colorado é chamado na escolinha do Prof. Girafales para que conte alguma história para as crianças, que já estão cansadas de estudar. Ele resolve contar-lhes a história de Branca de Neve, um pobre e frágil donzela, que vive sob as maldades de uma cruel rainha."
+    },
+    {
+      "id": 303,
+      "titulo_pt": "Branca de Neve e os sete Tchuim Tchuim Tchum Claim - parte 2",
+      "titulo_es": "Blanca de Nieves y los 7 Churín Churín Fun Flais - parte 2",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Continuando a história, Chapolin conta que a terrível rainha descobriu que Branca de Neve está viva e, sendo assim, tem a brilhante ideia de se disfarçar de mendiga para enganar a mocinha."
+    },
+    {
+      "id": 304,
+      "titulo_pt": "Branca de Neve e os sete Tchuim Tchuim Tchum Claim - parte 3",
+      "titulo_es": "Blanca de Nieves y los 7 Churín Churín Fun Flais - parte 3",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin finaliza o conto dizendo que a rainha se transformou em uma bela mulher, enquanto Branca de Neve viveu feliz para sempre com os anões."
+    },
+    {
+      "id": 305,
+      "titulo_pt": "Brincadeira de mão é para boxeadores",
+      "titulo_es": "Juego de Manos es de Boxeadores",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Carlos não quer perder sua noiva (Florinda Meza), que está sendo assediada por um homem musculoso (Rubén Aguirre) e seu pai (Ramón Valdés). Só que ele tem medo de enfrentar o sujeito. Desesperado, ele chama o Chapolin, que resolve fazer uma luta de boxe para ver quem fica com a mocinha."
+    },
+    {
+      "id": 306,
+      "titulo_pt": "Na barbearia, é fácil ficar parado",
+      "titulo_es": "En las Peluquerías es Fácil Hallar Pelados",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Florinda é manicure e está sendo assediada por um cliente milionário (Carlos Villagrán). Mas seu patrão (Ramón Valdés) quer que ela finja estar gostando para que o sujeito volte sempre à barbearia. Chapolin é chamado e resolve ajudá-la, usando a famosa Corneta Paralisadora."
+    },
+    {
+      "id": 307,
+      "titulo_pt": "À cobra, cobra do mar",
+      "titulo_es": "A la Víbora, Víbora de la Mar",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Ramón e Carlos estão no meio de um bosque, acampando. Porém, Florinda, filha de Ramón e esposa de Carlos, desapareceu. Assustados, eles chamam o Chapolin para ajudar a procurá-la. Depois, descobrem que ela está viva, porém foi picada por uma serpente e corre perigo de morte."
+    },
+    {
+      "id": 308,
+      "titulo_pt": "Fotos no museu... não!",
+      "titulo_es": "Las Estatuas No Dicen \"Chanfle\"",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin está no museu, mas é proibido de tirar fotografias. Depois de muitas confusões, ele vai para outra sala e percebe que a estátua está se mexendo. Assustado, ele chama o Chapolin, que resolve investigar e descobre que tem dois bandidos roubando peças valiosas do museu."
+    },
+    {
+      "id": 309,
+      "titulo_pt": "Dr. Chapatin: Nos deixe filmar!",
+      "titulo_es": "Dr. Chapatín: Interrumpiendo la Filmacíon",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin atrapalha as filmagens de um filme, e começa a contar que vive perdendo isqueiros."
+    },
+    {
+      "id": 310,
+      "titulo_pt": "Chapolin Colorado: Não confundir \"a casa cai de velha\" com \"a velha cai da casa\"",
+      "titulo_es": "El Chapulín Colorado: No es lo Mismo \"La Casa se Cae de Vieja\" que \"La Vieja se Cae de la Casa\"",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um engenheiro avisa que todo o cortiço está enfraquecido, e que os moradores terão de deixar o local, porque em cinco minutos tudo vai desabar. Mas o pai de Florinda não quer abandonar o cortiço, e agora o Chapolin terá de convencer o velho."
+    },
+    {
+      "id": 311,
+      "titulo_pt": "Os loucos mais perigosos estão fora do manicômio",
+      "titulo_es": "Con la Ley del Embudo ni el Chapulín Pudo",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um louco surdo-mudo está à solta. Ele entra no consultório do Dr. Chapatin e deixa todos muito assustados. Depois, Ramón chama o Chapolin para ajudar, e eles têm a ideia de dar um narcótico para o bandido dormir. Desta forma, eles podem levá-lo ao manicômio sem problemas."
+    },
+    {
+      "id": 312,
+      "titulo_pt": "Dr. Chapatin: Dr. Chapatin e o contrabando",
+      "titulo_es": "Dr. Chapatín: El Contrabando",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin senta em um banco de praça para ler o seu jornal, mas nem desconfia que aquele é o ponto de encontro de uns contrabandistas."
+    },
+    {
+      "id": 313,
+      "titulo_pt": "Chapolin Colorado: Com essas pulgas não se brinca de pula-pula",
+      "titulo_es": "El Chapulín Colorado: Con esas pulgas no se juega de salta-salta",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Ramón é um adestrador de pulgas e precisa chegar ao circo. Porém, seu carro ficou sem gasolina e ele precisa de ajuda. Chapolin é chamado, mas acaba matando todas as pulgas de Ramón."
+    },
+    {
+      "id": 314,
+      "titulo_pt": "O Anel da bruxa",
+      "titulo_es": "La Sortija de la Bruja",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Ramón decide despedir sua empregada, pois não tem mais dinheiro para mantê-la. Então, ela diz que não se importa e conta que é uma bruxa, e que tem um anel que conseguirá qualquer coisa que Ramón necessite. Ao descobrir o anel, Ramón enlouquece e decide \"conquistar o mundo\". A bruxa diz que o anel é só para o bem e, com medo de que seu patrão faça alguma coisa errada, ela decide chamar o Chapolin Colorado."
+    },
+    {
+      "id": 315,
+      "titulo_pt": "Aristocratas vemos, gatunos não sabemos",
+      "titulo_es": "Aristócratas Vemos, Rateros No Sabemos",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Carlos é um colecionador de selos valiosíssimos. Ele recebe a visita de um Conde muito importante em sua casa, que está interessado em comprar alguns de seus selos. Porém, um deles desapareceu e Carlos coloca a culpa na sua empregada. Chapolin Colorado é chamado para ajudar, mas ele descobre que quem roubou tudo foi o Conde, que é cleptomaníaco."
+    },
+    {
+      "id": 316,
+      "titulo_pt": "Cada um vale pelo que é",
+      "titulo_es": "Don Chapulín de la Mancha",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um velho (Ramón) que acredita ser o Chapolin Colorado necessita de ajuda, e por isso resolvem chamar um médico (Édgar). Depois, acabam invocando o verdadeiro Chapolin e ele resolve se passar por \"consciência\" e ajudar o pobre velhinho a perceber que não é o Chapolin, e sim o Seu Mundinho, que é seu nome verdadeiro e falando de informação de história."
+    },
+    {
+      "id": 317,
+      "titulo_pt": "Dr. Chapatin: Dr. Chapatin e as melancias",
+      "titulo_es": "Dr. Chapatín: La Venta de Frutas",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin vai comprar algumas frutas em uma quitanda. Nisso, chega uma senhora gaga à barraca e ele começa a tirar uma com a cara dela. Depois, ele pede uma fatia grande de melancia, mas o vendedor diz que não vendem melancias partidas, que ele terá de comprar uma inteira. Mas, teimoso como ele só, o doutor resolve cortar a melancia assim mesmo, arranjando a maior confusão com o vendedor."
+    },
+    {
+      "id": 318,
+      "titulo_pt": "Chapolin Colorado: A volta do Super Sam",
+      "titulo_es": "El Chapulín Colorado: El Retorno de Súper Sam",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Poucas Trancas (Rubén), um bandido terrível, está à solta. Assustada, Florinda chama o Chapolin, mas é o Super Sam quem aparece. Depois, o Chapolin também aparece e os dois resolvem agir juntos para deter o bandido."
+    },
+    {
+      "id": 319,
+      "titulo_pt": "Dr. Chapatin: Não foi pênalti!",
+      "titulo_es": "Dr. Chapatín: No Fue Penalty!",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin discute sobre um jogo de futebol recente, mas isso só vai causar problemas."
+    },
+    {
+      "id": 320,
+      "titulo_pt": "Chapolin Colorado: O lobisomem",
+      "titulo_es": "El Chapulín Colorado: Al Hombre Lobo le Hacen Daño las Caperucitas Verdes",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um casal de excursionistas vai passar a noite em uma cabana, pensando que essa está abandonada. Mas descobrem que há um morador lá. Este homem diz que a cabana pertence ao lobisomem, e que em todas as noites de lua cheia, ele retorna e se vinga daqueles que vêem ele assim. O casal chama o Chapolin, mas depois descobrem que o tal lobisomem não passava de um vigarista. quando o marido da mulher conversa de reclamar com o vigarista e antes apanha do Chapolin."
+    },
+    {
+      "id": 321,
+      "titulo_pt": "Dinheiro chama dinheiro, mas ladrão também",
+      "titulo_es": "Dinero Llama Dinero. Ah, pero También al Ratero",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um casal perde o bilhete de loteria premiado. A esposa chama o Chapolin para ajudá-los a procurar o bilhete, e enquanto isso, um ladrão invade a casa e começa a roubar objetos. O problema é que o Chapolin confunde o bandido com o marido de Florinda."
+    },
+    {
+      "id": 322,
+      "titulo_pt": "A mansão dos fantasmas",
+      "titulo_es": "La Mansíon de las Fantasmas",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "O avô de Florinda recebe ela e o marido Carlos na mansão dele. Carlos vê um fantasma de um escocês na mansão e Florinda decide chamar o Chapolin Colorado para investigar o caso."
+    },
+    {
+      "id": 323,
+      "titulo_pt": "O mosquito biônico",
+      "titulo_es": "La Amenaza del Mosquito Biónico",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Professor Inventino, depois de salvar a vida do mosquito com uma operação através do microscópio, o transformou num mosquito biônico com a operação. O que ele não esperava é que o mesmo pudesse virar um risco para a população. Com isso, a enfermeira do Doutor chama o Chapolin para deter o inimigo. Com o tempo, o mosquito foge do microscópio e daí foi só confusão entre os personagens do episódio. No final, o mosquito morre de velho e a enfermeira anuncia ao Doutor que a sala para a operação do elefante biônico já está preparada."
+    },
+    {
+      "id": 324,
+      "titulo_pt": "O show deve continuar - parte 1",
+      "titulo_es": "La Función Debe Continuar - parte 1",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Se trata de um velho empregado de cinema (Ramón Valdés) que está bem triste já que os estúdios onde trabalhava foram fechados e serão derrubados para construir um condomínio. Seu último desejo é revisitar os sets de filmagem para recordar os velhos tempos e despedir-se do lugar, mas para isso, chama o Chapolin Colorado, para que possa contar suas histórias e recordações sobre os filmes que foram feitos ali."
+    },
+    {
+      "id": 325,
+      "titulo_pt": "O show deve continuar - parte 2",
+      "titulo_es": "La Función Debe Continuar - parte 2",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "O velhinho continua contando sobre o estúdio e sobre os filmes."
+    },
+    {
+      "id": 326,
+      "titulo_pt": "O show deve continuar - parte 3",
+      "titulo_es": "La Función Debe Continuar - parte 3",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "O velhinho continua contando sobre o estúdio e sobre os filmes."
+    },
+    {
+      "id": 327,
+      "titulo_pt": "O show deve continuar - parte 4",
+      "titulo_es": "La Función Debe Continuar - parte 4",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "O velhinho continua contando sobre o estúdio e sobre os filmes."
+    },
+    {
+      "id": 328,
+      "titulo_pt": "O show deve continuar - parte 5",
+      "titulo_es": "La Función Debe Continuar - parte 5",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "O velhinho continua contando sobre o estúdio e sobre os filmes."
+    },
+    {
+      "id": 329,
+      "titulo_pt": "O show deve continuar - parte 6",
+      "titulo_es": "La Función Debe Continuar - parte 6",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Na Parte final do episódio O velhinho termina de contar sobre os filmes e agradece a visita do Chapolin Colorado."
+    },
+    {
+      "id": 330,
+      "titulo_pt": "Cyrano de Bergerac",
+      "titulo_es": "Erase un Hombre a una Nariz Pegado",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Mais uma paródia de Chespirito. Desta vez, com a história de Cyrano de Bergerac."
+    },
+    {
+      "id": 331,
+      "titulo_pt": "Os piratas do caribe - parte 1",
+      "titulo_es": "Los Piratas de Pittsburgh, perdón, del Caribe - parte 1",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Flor Marina, a taberneira do navio de Alma Negra, foi presa por não ter aceitado se casar com o pirata. Chapolin é chamado e resolve ajudar, mas acaba sendo preso junto com ela."
+    },
+    {
+      "id": 332,
+      "titulo_pt": "Os piratas do caribe - 2ª parte",
+      "titulo_es": "Los Piratas de Pittsburgh, perdón, del Caribe - parte 2",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin e Flor Marina tentam pensar num jeito de escapar da prisão. Flor Marina fala para o Chapolin Colorado diminuir de tamanho com suas pastilhas encolhedoras e fugir da cela, aí então é só dar um jeito de pegar a chave e abrir para que ela também possa fugir."
+    },
+    {
+      "id": 333,
+      "titulo_pt": "A vendedora de flores",
+      "titulo_es": "\"My Fair Lady\", que en Español quiere Decir que a mi Dama le Fue como en Feria",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin deixa um ladrão ir embora sem castigo, e o refém lhe pergunta porque ele fez isso. Aí Chapolin diz que todo mundo pode mudar e se regenerar. Por isso, ele resolve contar a história de Lisa, uma vendedora de flores pobre e sem educação, que conseguiu se transformar numa verdadeira dama."
+    },
+    {
+      "id": 334,
+      "titulo_pt": "O ovo de Colombo",
+      "titulo_es": "No es lo Mismo Pancracio se Enfermo del Colon, que Colón se Enfermo de Páncreas",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Mais uma paródia de Chapolin. Desta vez, com a história de Cristóvão Colombo, o homem que descobriu a América."
+    },
+    {
+      "id": 335,
+      "titulo_pt": "Um giro com o vampiro",
+      "titulo_es": "Los Hombres Vampiro No Saben Hacer otra Cosa Más que estar Chupando Sangre",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Florinda está com medo do homem-vampiro, e jura que ele tentou atacá-la durante a noite. Seu pai não acredita na história e ela resolve chamar o Chapolin."
+    },
+    {
+      "id": 336,
+      "titulo_pt": "Dr. Chapatin: O doutor é um assassino",
+      "titulo_es": "Dr. Chapatín: El Doctor es un Asesino",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Dr. Chapatin conta à sua enfermeira que atropelou alguém com seu carro, e que acabou matando. A enfermeira faz de tudo para consolá-lo, mas de nada adianta. No final, ela descobre que a vítima foi o seu cachorrinho de estimação."
+    },
+    {
+      "id": 337,
+      "titulo_pt": "Chapolin Colorado: O mordomo desastrado",
+      "titulo_es": "El Chapulín Colorado: El Chapulín es Buen mozo",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um homem descobre que ganhou na loteria. Por alguns problemas, seu criado não pode mais continuar no serviço, e o Chapolin é chamado para substituí-lo. Mas é lógico que ele só arruma confusão."
+    },
+    {
+      "id": 338,
+      "titulo_pt": "A história de Don Juan Tenório",
+      "titulo_es": "La Historia de Don Juan Tenorio",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin conta a história de Don Juan Tenório, um homem apaixonado por uma freira chamada Inés, e que, por ela, era capaz de ir até as últimas consequências."
+    },
+    {
+      "id": 339,
+      "titulo_pt": "Olha o passarinho!",
+      "titulo_es": "Lo Bueno de Tomar Fotografías es cuando te Salen Movidas",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Um jornalista chama o Chapolin para conseguir tirar fotos de uma bailarina famosa, pois se não o fizer, ele pode perder o seu emprego. Chapolin concorda em ajudar mas acaba sendo descoberto pela bailarina e seu segurança. Chapolin insiste e conta uma história para a bailarina sobre um quartel onde houve várias confusões por causa de uma fotógrafa. No final, Chapolin diz que há gente que é capaz de trair a confiança para conseguir dinheiro. Enquanto isso, do lado de fora, o segurança vende ao jornalista várias fotos da bailarina."
+    },
+    {
+      "id": 340,
+      "titulo_pt": "O Alfaiatezinho Valente - parte 1",
+      "titulo_es": "El Sastrecillo Valiente - parte 1",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Chapolin conta a história do alfaiate valente. Nessa primeira parte, a princesa está chateada de tanto ficar enclausurada no castelo e como seu pai não a deixa sair, ela se passa por aldeã e foge. No povoado acaba conhecendo o alfaiate que a defende dos \"três demônios\"."
+    },
+    {
+      "id": 341,
+      "titulo_pt": "O Alfaiatezinho Valente - parte 2",
+      "titulo_es": "El Sastrecillo Valiente - parte 2",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Nesta segunda parte, o alfaiate mestre tem a ideia de fazer uma roupa para o rei com um tecido mágico que só os inteligentes podem ver, enganando a todos. O rei e seu primeiro-ministro, suspeitam de que a princesa tenha fugido vestida de aldeã, ajudada por alguém do castelo. O alfaiate valente se encontra novamente com a princesa e lhe dá um pedaço de pão para comer."
+    },
+    {
+      "id": 342,
+      "titulo_pt": "O Alfaiate Valente - parte 3",
+      "titulo_es": "El Sastrecillo Valiente - parte 3",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Nesta terceira parte, os alfaiates levam o tal tecido mágico para o rei, este o veste e quando descobre que ninguém vê a roupa logo faz mais um decreto impedindo que se veja o rei em trajes menores. Um gigante chega ao povoado e acaba com \"os três demônios\", ao mesmo tempo em que o alfaiate valente mata 3 moscas de uma vez só. Isso faz todos pensarem que foi ele quem acabou com o trio de vândalos. Após isso, o episódio continua no castelo com o gigante sequestrando a princesa pela janela e o anúncio do Chapolin para a 4ª parte (\"continua no próximo livro...\")."
+    },
+    {
+      "id": 343,
+      "titulo_pt": "O Alfaiatezinho Valente - parte 4",
+      "titulo_es": "El Sastrecillo Valiente - parte 4",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Nesta quarta (e última) parte, o alfaiate vai até a casa do gigante, que quer se casar com a princesa. Só que ao ver a coragem e o amor do alfaiate pela princesa, o gigante acaba libertando-a e deixando os dois se casarem."
+    },
+    {
+      "id": 344,
+      "titulo_pt": "O Rei do Disfarce",
+      "titulo_es": "Al Mil Caras, todas le salieron baratas",
+      "ano": 1978,
+      "temporada": 6,
+      "resumo": "Neste episódio, Rubén contrata o rei dos disfarces Almôndega (Ramón) para matar a sua tia Dona Neves (María Antonieta) a fim de herdar toda sua herança. Com medo disso, Dona Neves chama o Chapolin que se propõe a procurar com ela o seu sobrinho. Os assassinos tentam de todas as formas o planejado mas acabam sendo descobertos pela polícia graças ao detetive disfarçado de diretor do hospital (Carlos). Após isso Almôndega continua no hospital agora disfarçado de Dona Neves."
+    },
+    {
+      "id": 345,
+      "titulo_pt": "Aqui, quem canta de galo sou eu!",
+      "titulo_es": "Quién Lleva aquí los Pantalones?",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Neste episódio, um casal inverte as tarefas diárias. A esposa sai para trabalhar e o marido é quem faz os serviços de casa. Este chama o Chapolin para ajudá-lo e, em meio a isso tudo, o vizinho engenheiro Camin precisa usar o telefone da casa para falar com o médico da sua esposa, o Dr. Zurita."
+    },
+    {
+      "id": 346,
+      "titulo_pt": "A ociosidade é a mãe de um amigo meu",
+      "titulo_es": "La Ociosidad es la Madre de un Amigo Mío",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Édgar é um sujeito preguiçoso que nunca quer trabalhar. Cansada, sua esposa decide chamar o Chapolin Colorado, para convencer seu marido que ele é um folgado e que precisa trabalhar imediatamente. Depois, o sujeito acaba ficando com a cabeça entalada no piso de cima, e Chapolin tem a ideia de usar suas Pastilhas Encolhedoras, para soltá-lo. Só que Édgar não quer tomar a pastilha de jeito nenhum, este é o penúltimo espisódio o que está fazendo de vergonha."
+    },
+    {
+      "id": 347,
+      "titulo_pt": "Segurem a minha mão!",
+      "titulo_es": "Tiene Manita, No Tiena Manita, porque la Tiene Desconchabadita",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Neste episódio, Édgar Vivar é um detetive que está perseguindo uma secretária espiã, que traz documentos importantes. Mas ele acaba sendo descoberto por ter deixado sua credencial cair. Depois, o Oficial do Estado Maior ganha da secretária um relógio escravizador, que controla a mão de quem o usa, mesmo à distância. Com isso, ele acaba entregando a ela documentos importantes, e ela foge com eles. Indignado e desesperado, o Oficial do Estado Maior decide chamar o Chapolin para que o ajude. Mas ele acaba usando também o relógio sem saber. No final, o Oficial consegue capturar a espiã e o funcionário do hotel acaba ficando com o relógio."
+    },
+    {
+      "id": 348,
+      "titulo_pt": "A volta da buzina paralisadora",
+      "titulo_es": "El Regreso de la Chicharra Paralizadora",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Neste episódio, Édgar é um homem multimilionário que deseja se casar com Florinda. Mas ela nem dá bola. Por isso, ele aceita a ajuda de um estranho na rua (Rubén), que combina o seguinte: eles se fazem de sobrinho e tio, e convencem o pai da moça (Ramón Valdés) a obrigá-la a se casar com o sujeito rico. Assustada, ela resolve chamar o Chapolin, que usa uma de suas mais conhecidas armas: a buzina paralisadora."
+    },
+    {
+      "id": 349,
+      "titulo_pt": "Jamais voltarei a jogar apostando dinheiro e te aposto o que quiser que eu Cumpro",
+      "titulo_es": "Jamás Volveré a Jugar Apostando Dinero y te Apuesto lo que Quieras a que Cumplo",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Tripa Seca e Nenê convidam o Dr. Chapatin para uma aposta de dinheiro jogando pôquer. Chapatin faz várias trapaças no jogo e é ameaçado por Nenê. Com isso, Chapolin é chamado para ajudar e assume o lugar do Dr. Chapatin. Tripa Seca e Nenê obrigam-no a apostar uma partida de sinuca. Após várias confusões, Chapolin briga com a dupla e acaba convencendo os dois a não apostarem mais dinheiro."
+    },
+    {
+      "id": 350,
+      "titulo_pt": "A Romântica História de Juleu e Romieta - parte 1",
+      "titulo_es": "La Romántica Historia de Julio y Rumieta - parte 1",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Ramón tem uma filha, Florinda, que quer namorar com um cara que ele não quer, então ela resolve sair de casa assim mesmo desobedecendo. Chapolin é chamado para ajudar e começa a contar a história de \"Juleu e Romieta\". Nessa versão, Chespirito é quem faz o papel de Juleu e os demais personagens continuam os mesmos. Juleu e Rubén fazem uma serenata, além de declararem um poema."
+    },
+    {
+      "id": 351,
+      "titulo_pt": "A Romântica História de Juleu e Romieta - parte 2",
+      "titulo_es": "La Romántica Historia de Julio y Rumieta - parte 2",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Juleu resolve fazer uma serenata para a sua amada; o pai de Romieta continua sendo contra. Romieta tem a ideia de se fingir de morta, para que seu pai se arrependa e resolva permitir o namoro dos dois. Mas isso pode resultar em uma tragédia."
+    },
+    {
+      "id": 352,
+      "titulo_pt": "Os três suspeitos",
+      "titulo_es": "No te Arrugues Cuero Viejo que te Quiero para Tambor",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Uma mulher bate à porta de uma cabana para pedir abrigo, pois seu carro ficou sem gasolina. Mas ela está assustada, pois escutou no rádio que um bandido muito perigoso escapou da prisão. Por isso, ela resolve chamar o Chapolin. Chegando à cabana, ele descobre três homens, todos muito suspeitos. Segundo o Chapolin, um deles bem poderia ser o bandido. No final, Chapolin descobre que o bandido saiu disfarçado de mulher e é justamente a mocinha do episódio, a pessoa que ele menos suspeitava."
+    },
+    {
+      "id": 353,
+      "titulo_pt": "Mendigos vemos, milionários não sabemos",
+      "titulo_es": "Limosneros Vemos, Millonarios No Sabemos",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Neste episódio, um mendigo muito folgado exige esmolas gordas dos transeuntes que passam por uma praça. Sua filha, que também é mendiga, pede esmolas com a frase \"me dá um bom Natal\". Chapolin aparece à pedido dela, após o seu pai ter lhe \"roubado\" o dinheiro que um turista havia acabado de lhe dar. No final, pai e filha acabam por compreender que devem procurar um trabalho honrado e deixar de serem mendigos. O turista sabendo a quantidade de dinheiro que um deles ganhava, passou a pedir esmolas também."
+    },
+    {
+      "id": 354,
+      "titulo_pt": "A volta do renegado",
+      "titulo_es": "El Regreso del Rascabuches",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "O terrível Rasga Bucho (Ramón), bandido do Velho Oeste, está de volta para aterrorizar a todos. Mas o reinado dele pode estar com os dias contados, já que o cantineiro da cidade (Rubén) é muito mais valente e brigão do que ele. Chapolin é chamado e agora terá de apartá-los. Mais no final de tudo o Chapolin entra na briga. E em seguida a Rosa rumorosa que esta dentro do bar bate nos brigões. E a briga é encerrada."
+    },
+    {
+      "id": 355,
+      "titulo_pt": "Dos delinquentes que fogem, o mais perigoso é o gás",
+      "titulo_es": "De los Delincuentes que se Fugan, el Más Peligroso se Llama Gas",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Um botijão de gás explode e Chapolin é chamado para ajudar. Depois, ele descobre um fio solto e começa a puxá-lo para saber do que se trata. Só que o fio é do lustre do vizinho de baixo e a confusão começa."
+    },
+    {
+      "id": 356,
+      "titulo_pt": "O pintor",
+      "titulo_es": "El Pintor se Fue de Pinta",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Um pintor fica desesperado ao saber que sua empregada estragou duas de suas obras-primas. Uma delas tinha sido feita por encomenda, e devia ser entregue a um general importantíssimo. Sem saída, ele resolve chamar o Chapolin, que conta a história de Leonardo da Vinci."
+    },
+    {
+      "id": 357,
+      "titulo_pt": "Dr. Chapatin: O futebol é minha melhor medicina",
+      "titulo_es": "Dr. Chapatín: El Partido de Fútbol",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Dr. Chapatin quer assistir a uma partida de futebol, mas seus pacientes ficam atrapalhando. No final, ele descobre que a partida seria no dia seguinte."
+    },
+    {
+      "id": 358,
+      "titulo_pt": "Chapolin Colorado: Vinte mil beijinhos para não morar com a sogra",
+      "titulo_es": "El Chapulín Colorado: Más Mezcla, Maistro",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "O Sr. Malagueta está preocupado, pois se a construção de sua casa não for concluída a tempo, ele terá que fazer um quarto a mais para sua sogra. Chapolin é chamado para ajudar, mas acaba destruindo tudo. No final, a esposa do Sr. Malagueta agradece, pois sua mãe finalmente terá um lugar para morar."
+    },
+    {
+      "id": 359,
+      "titulo_pt": "O que nasce para Cleópatra não passa de Júlio César",
+      "titulo_es": "La que Nace para Cleopatra No Pasa de Julio César",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Uma mulher acaba convidando, sem querer, seus dois namorados para visitá-la. E para piorar, os dois são terríveis bandidos. Um é o Botina e o outro é o Nenê. Assustada, ela chama o Chapolin. Depois de tudo resolvido, ele conta a história de Cleópatra, a famosa Rainha do Egito."
+    },
+    {
+      "id": 360,
+      "titulo_pt": "A troca de cérebros",
+      "titulo_es": "Se Cambian Cerebros a Domicilio. Aceptamos se Cerebro Usado como Enganche",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Um cientista louco pretende realizar um transplante de cérebros. Todos os seus companheiros cientistas ficam contra e se recusam a ajudá-lo. Ameaçado e assustado, ele resolve chamar o Chapolin Colorado, e aproveita a oportunidade para lhe mostrar seus \"magníficos inventos\". Depois, ele pega 2 cientistas de vítimas para o transplante de cérebros, e obtém sucesso. No final, o Chapolin consegue detê-lo, mas acaba trocando o cérebro de um outro cientista, com o de um cachorro."
+    },
+    {
+      "id": 361,
+      "titulo_pt": "Como tornar-se um herói",
+      "titulo_es": "Cómo Convertise en Héroe en Cuatro Fáciles Lecciones",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Rubén quer ser super-herói. Chapolin Colorado aparece para ajudá-lo a realizar seu desejo. Depois de muitos treinos, muitas lições e muitas confusões, o homem desiste e resolve voltar à sua profissão antiga: domador de leões, que segundo ele, é menos arriscada."
+    },
+    {
+      "id": 362,
+      "titulo_pt": "A festa à fantasia - parte 1",
+      "titulo_es": "El Disfraz, el Antifaz y Algo Más - parte 1",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Uma mulher vai dar uma festa a fantasia, em sua casa. Mas nem desconfia que uns contrabandistas estão planejando agir durante a festa. Entretanto, um detetive vai à sua casa investigar e tentar descobrir quem são os bandidos. Mesmo assim, ela fica assustada e chama o Chapolin Colorado."
+    },
+    {
+      "id": 363,
+      "titulo_pt": "A festa à fantasia, segunda parte",
+      "titulo_es": "El Disfraz, el Antifaz y Algo Más - parte 2",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "O detetive e o Chapolin continuam investigando a festa. Finalmente descobrem que o chefe dos contrabandistas é o bandido Garrafa. Chapolin consegue capturar todos os bandidos. Mas a dona da festa tem uma surpresa ao saber que não era o Chapolin de verdade, e sim um convidado fantasiado. No final, o verdadeiro Chapolin aparece e diz que não conseguia achar um táxi nem para remédio."
+    },
+    {
+      "id": 364,
+      "titulo_pt": "O beijinho de boa noite",
+      "titulo_es": "El Besito de las Buenas Noches",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Uma mulher se assusta com um rato e resolve chamar o Chapolin para ajudar a caçá-lo. Mas ao invés de ajudá-la, ele resolve contar a história de um rato que precisou de ajuda, certa vez: o tão-conhecido Topo Gigio."
+    },
+    {
+      "id": 365,
+      "titulo_pt": "Bebê de carne sem osso",
+      "titulo_es": "Bebé de Carne sin Hueso",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Rubén e Florinda querem ir a uma festa, mas não têm com quem deixar sua bebê. Por isso, resolvem chamar o Chapolin Colorado, e este fica como babá. Depois, um ladrão entra na casa e diz que só quer alguma coisa de comer. Chapolin faz uma janta para o bandido e, em troca, ele ajuda o Chapolin a cuidar da menina."
+    },
+    {
+      "id": 366,
+      "titulo_pt": "De burro, Chapolin e louco todos nós temos um pouco",
+      "titulo_es": "De Torpe, Chapulín y Loco, Todos Tenemos un Poco",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Florinda está sozinha em sua casa quando escuta no rádio a notícia de que um louco muito perigoso está à solta. Ao alimentar seu cão, descobre que este está morto. Assustada, ela resolve chamar o Chapolin Colorado. No final, ele tem uma grande luta com um homem que ele acreditava ser o louco, mas que não era nada mais que o marido de Florinda."
+    },
+    {
+      "id": 367,
+      "titulo_pt": "O robô que pirou",
+      "titulo_es": "Al Robot se Infectaron los Transistores",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Édgar constrói um robô idêntico a um ser humano, mas este está descontrolado. Chapolin é chamado para ajudar a detê-lo, mas não consegue descobrir quem é o robô. No final, eles têm a ideia de molhar o robô para enferrujá-lo."
+    },
+    {
+      "id": 368,
+      "titulo_pt": "A ameaça de morte",
+      "titulo_es": "Hay que Explotar el Negocio",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "Botina intimida um advogado colocando uma bomba em seu escritório. Chapolin, o advogado e sua secretária tentam desativar a bomba, que se encontra dentro de um cofre. O pior de tudo é que o cofre estava aberto e quem sofre com a bomba é o advogado que se atirou pela janela. Depois, os bandidos colocam outra bomba mas acabam sendo presos. Mesmo assim, a bomba continua trancada junto do Chapolin e a secretária. Agora ele terá de arranjar um jeito para sair desta enrascada."
+    },
+    {
+      "id": 369,
+      "titulo_pt": "A despedida de Chapolin",
+      "titulo_es": "La Última Escena",
+      "ano": 1979,
+      "temporada": 7,
+      "resumo": "A série chega ao episódio final e os atores resolvem se despedir, lembrando dos melhores momentos do nosso herói favorito."
+    }
+  ]
+}

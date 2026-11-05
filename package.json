@@ -1,0 +1,22 @@
+{
+  "name": "bolanos-api",
+  "version": "1.0.0",
+  "description": "API pública sobre os episódios de Chaves e Chapolin",
+  "type": "module",
+  "main": "api/episodios/[slug]/index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "chaves",
+    "chapolin",
+    "chespirito",
+    "api",
+    "rest",
+    "vercel"
+  ],
+  "author": "Jônatas Crizel",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^65.11.0"
+  }
+}
